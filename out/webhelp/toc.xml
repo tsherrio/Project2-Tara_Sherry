@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">IBM StoredIQ Deployment and Configuration Guide</span></title>
+   <topic href="javascript:void(0)">
+      <title>IBM StoredIQ Deployment and Configuration Guide</title>
+      <topic href="topics/references/coverPage.html" data-id="coverPage">
+         <title>Cover page and information table</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">     </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="topics/references/notices.html" data-id="copyright">
+      <title>***</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/references/aboutPub.html" data-id="aboutPub">
+      <title>About this publication</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ Deployment and Configuration Guide</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+</toc>

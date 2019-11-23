@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"coverPage", "path":"topics/references/coverPage.html"},{"appname":"", "appid":"copyright", "path":"topics/references/notices.html"},{"appname":"", "appid":"aboutPub", "path":"topics/references/aboutPub.html"}]

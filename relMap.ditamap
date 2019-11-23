@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <reltable>
+        <relheader>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>About publication</navtitle>
+                </topicmeta> 
+            </relcolspec>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>Related library</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>Related support</navtitle>
+                </topicmeta>
+            </relcolspec>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="topics/concepts/aboutPub.dita"></topicref>
+            </relcell>
+            <relcell>
+                <topicref href="topics/references/prodLibrary.dita"></topicref>
+                <topicref href="topics/tasks/contactingSupp.dita"></topicref>
+                
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

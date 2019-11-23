@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="coverPage" path="topics/references/coverPage.html"/>
+   <appContext helpID="copyright" path="topics/references/notices.html"/>
+   <appContext helpID="aboutPub" path="topics/references/aboutPub.html"/>
+</map>

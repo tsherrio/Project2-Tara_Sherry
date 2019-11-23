@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">IBM StoredIQ Deployment and Configuration Guide</span></title>
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
+      <title>IBM StoredIQ</title>
+      <topic href="topics/references/coverPage.html" data-id="coverPage" wh-toc-id="coverPage-d66e12">
+         <title>Cover page</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cover page and additional document information.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="coverPage"></resourceid>
+            <navtitle class="- topic/navtitle ">Cover page</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Cover page</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Cover page and additional document information.</shortdesc>
+         </topicmeta>
+      </topic>
+      <topic href="topics/concepts/aboutPub.html" data-id="aboutPub" wh-toc-id="aboutPub-d66e23">
+         <title>About this publication</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">An description of the IBM StoredIQ Deployment and Configuration Guide</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="aboutPub"></resourceid>
+            <navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">An description of the IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+         </topicmeta>
+         <topic href="topics/references/prodLibrary.html" data-id="prodLibrary" wh-toc-id="prodLibrary-d66e34">
+            <title>IBM StoredIQ product library</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following documents are available in the IBM® StoredIQ® product library.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="prodLibrary"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ product library</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="topics/tasks/contactingSupp.html" data-id="support" wh-toc-id="support-d66e45">
+            <title>Contacting IBM StoredIQ customer support</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
+                  phone number:
+               </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="support"></resourceid>
+               <navtitle class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Contacting IBM StoredIQ customer support</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
+                  phone number:
+               </shortdesc>
+            </topicmeta>
+         </topic>
+      </topic>
+      <topic href="topics/references/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e64">
+         <title>IBM StoredIQ components</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ components.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="storedComp"></resourceid>
+            <navtitle class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">IBM StoredIQ components</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">A description of the IBM StoredIQ components.</shortdesc>
+         </topicmeta>
+         <topic href="topics/references/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e75">
+            <title>Solution components</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack(AppStack).     </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="solComp"></resourceid>
+               <navtitle class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Solution components</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack(AppStack).     </shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="topics/references/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e86">
+            <title>Applications of IBM StoredIQ</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="appsStored"></resourceid>
+               <navtitle class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Applications of IBM StoredIQ</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+            </topicmeta>
+         </topic>
+      </topic>
+   </topic>
+</toc>

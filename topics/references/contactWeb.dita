@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="contactWeb">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody> 
+        <section>
+            <title></title>
+            <p><ph id="contact">see the Contact IBM web site at <xref href="https://www.ibm.com/contact/us/en/" scope="external" format="html"></xref>.</ph></p>
+        </section>
+    </refbody>
+</reference>

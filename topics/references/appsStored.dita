@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="appsStored">
+    <title>Applications of IBM StoredIQ</title>
+    <shortdesc>IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <conbody>
+        <conbodydiv>
+            <section>
+                <title>IBM StoredIQ Data Server</title>
+                <p>IBM StoredIQ Data Server user interface provides access to data server
+                    functionality. It allows administrators to view the dashboard and see the status
+                    of the jobs and system details. Administrators can manage information about
+                    servers and conduct various configurations on the system and application
+                    settings.</p>
+                <image conkeyref="pics/datServ"/>
+            </section>
+        </conbodydiv>
+ 
+    </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="copyright">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody>
+         <refbodydiv>
+             <section>
+                 <title></title>
+                 <p>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications until otherwise indicated in new editions.</p>
+             </section>
+             <section>
+                 <title></title>
+                 <p><b>© Copyright International Business Machines Corporation 2001, 2019.</b>  US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</p>
+             </section>
+         </refbodydiv>
+    </refbody>
+</reference>

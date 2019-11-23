@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="coverPage">
+    <title>Cover page</title>
+    <shortdesc>Cover page and additional document information.</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry>
+                            <note importance="high">Before using this information and the product it supports, read the information in <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="pdf">Notices.</xref></note>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <simpletable keycol="1">
+            <sthead>
+                <stentry>WHAT</stentry>
+                <stentry>WHERE</stentry>
+                <stentry>WHY</stentry>
+                
+            </sthead>
+            <strow>
+                <stentry>Scope</stentry>
+                <stentry>coverPage.dita</stentry>
+                <stentry>Set Note scope to peer: "Resource is part of the current set of content but may not be accessible at build time"</stentry>
+            </strow>
+            <strow>
+                <stentry>Term</stentry>
+                <stentry>aboutPub</stentry>
+                <stentry>Introduced new term</stentry>
+            </strow>
+            <strow>
+                <stentry>Phrase</stentry>
+                <stentry>contactingSupp.dita</stentry>
+                <stentry>Reused phrase in topic</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

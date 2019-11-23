@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="copyright" xtrc="reference:1;3:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+        <simpletable class="- topic/simpletable " keycol="1" xtrc="simpletable:1;7:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+            <strow class="- topic/strow " xtrc="strow:1;8:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+                    <note class="- topic/note " xtrc="note:1;10:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">Before using this information and the product it supports, read the information in <xref class="- topic/xref " format="pdf" href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="external" xtrc="xref:1;10:274" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"><?ditaot usertext?>Notices.</xref></note>
+                </stentry>
+            </strow>
+        </simpletable>
+        
+        <section class="- topic/section " xtrc="section:1;15:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+            <title class="- topic/title " xtrc="title:2;16:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+            <p class="- topic/p " xtrc="p:1;17:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+                <data class="- topic/data " name="ref_Lynch_Horton" xtrc="data:1;18:47" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">
+                    <data class="- topic/data " name="date_retrieved" value="13 September 2009" xtrc="data:2;19:77" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+                    <data class="- topic/data " name="chapter" value="9" xtrc="data:3;20:54" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+                    <data class="- topic/data " name="pub_type" value="web" xtrc="data:4;21:57" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+                    <data class="- topic/data " href="http://webstyleguide.com/wsg3/9-editorial-style/2-structuring-prose.html" name="page_URL" xtrc="data:5;22:125" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+                    <data class="- topic/data " name="pub_title" xtrc="data:6;23:44" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita">Web Style Guide</data>
+                    <data class="- topic/data " name="edition" value="3" xtrc="data:7;24:54" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/copyright.dita"/>
+                </data>
+            </p>
+        </section>
+    </refbody>
+<opentopic-index:index.groups/></reference>
