@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="conManAct">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+        <section>
+            <title></title>
+            <ul>
+                <li id="conMan"><b>Configuring and managing actions</b>: An action is any process that is taken upon the data that is represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or warnings that are generated as a result of an action are recorded as exceptions in IBM StoredIQ DataWorkbench.
+                    <note importance="normal">Actions can be created within IBM StoredIQ Administrator and then made available to other IBMStoredIQ applications such as IBM StoredIQ Data Workbench.</note>
+                </li>
+            </ul>
+            
+        </section>
+    </taskbody>
+</task>

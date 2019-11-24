@@ -1,1 +1,1 @@
-define({"title":"<span class=\"title\">IBM StoredIQ Deployment and Configuration Guide</span>","topics" : [{"title":"IBM StoredIQ","href":"topics\/references\/coverPage.html","menu": {"hasChildren":true,},"tocID":"tocId-d66e11","next":"tocId-d66e11",}]});
+define({"title":"<span class=\"title\">IBM StoredIQ</span>","topics" : [{"title":"Deployment and Configuration Guide","href":"topics\/references\/coverPage.html","menu": {"hasChildren":true,},"tocID":"tocId-d66e11","next":"tocId-d66e11",}]});

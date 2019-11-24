@@ -3,4 +3,5 @@
 <map>
     <title></title>
     <keydef keys="pics" href="topics/references/images.dita"></keydef>
+    <keydef keys="ibmDaWb" href="topics/concepts/ibmDataWB.dita"></keydef>
 </map>

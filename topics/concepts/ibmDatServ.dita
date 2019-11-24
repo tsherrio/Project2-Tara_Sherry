@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ibmDatServ">
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        
+        <!-- Insert into appsStored.dita -->
+        
+        <section id="storedIqServ">
+            <title>IBM StoredIQ Data Server</title>
+            <p>IBM StoredIQ Data Server user interface provides access to data server
+                functionality. It allows administrators to view the dashboard and see the status
+                of the jobs and system details. Administrators can manage information about
+                servers and conduct various configurations on the system and application
+                settings.</p>
+            <image conkeyref="pics/datServ"/>
+        </section>
+    </conbody>
+</concept>

@@ -4,10 +4,13 @@
    <appContext helpID="aboutPub" path="topics/concepts/aboutPub.html"/>
    <appContext helpID="prodLibrary" path="topics/references/prodLibrary.html"/>
    <appContext helpID="support" path="topics/tasks/contactingSupp.html"/>
-   <appContext helpID="storedComp" path="topics/references/storedComp.html"/>
-   <appContext helpID="solComp" path="topics/references/solComp.html"/>
-   <appContext helpID="appsStored" path="topics/references/appsStored.html"/>
+   <appContext helpID="storedComp" path="topics/concepts/storedComp.html"/>
+   <appContext helpID="solComp" path="topics/concepts/solComp.html"/>
+   <appContext helpID="appsStored" path="topics/concepts/appsStored.html"/>
    <appContext helpID="aboutPub" path="topics/concepts/aboutPub.html"/>
    <appContext helpID="prodLibrary" path="topics/references/prodLibrary.html"/>
    <appContext helpID="support" path="topics/tasks/contactingSupp.html"/>
+   <appContext helpID="storedComp" path="topics/concepts/storedComp.html"/>
+   <appContext helpID="solComp" path="topics/concepts/solComp.html"/>
+   <appContext helpID="appsStored" path="topics/concepts/appsStored.html"/>
 </map>

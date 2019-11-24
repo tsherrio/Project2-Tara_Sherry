@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="connApiSdk">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <section>
+            <title></title>
+            <ul>
+                <li id="connAp"><b>Connector API SDK</b>: A connector is a software component of IBM StoredIQ that is used to connect to a data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK, developers of other companies can develop connectors to new data sources outside the IBM StoredIQ development environment. These connectors can be integrated with a live IBM StoredIQ application to index, search, manage, and analyze data on the data source.</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

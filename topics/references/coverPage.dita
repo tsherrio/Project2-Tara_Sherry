@@ -29,13 +29,28 @@
             </strow>
             <strow>
                 <stentry>Term</stentry>
-                <stentry>aboutPub</stentry>
+                <stentry>aboutPub.dita</stentry>
                 <stentry>Introduced new term</stentry>
             </strow>
             <strow>
                 <stentry>Phrase</stentry>
                 <stentry>contactingSupp.dita</stentry>
                 <stentry>Reused phrase in topic</stentry>
+            </strow>
+            <strow>
+                <stentry>Bullets</stentry>
+                <stentry>dataServClass.dita</stentry>
+                <stentry>Bullet list for readability</stentry>
+            </strow>
+            <strow>
+                <stentry>Conkeyref</stentry>
+                <stentry>appsStored.dita</stentry>
+                <stentry>Reusable content strategy</stentry>
+            </strow>
+            <strow>
+                <stentry>Example</stentry>
+                <stentry>ibmDataWB</stentry>
+                <stentry>Used example to define text.</stentry>
             </strow>
         </simpletable>
     </refbody>

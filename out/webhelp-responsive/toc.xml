@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
-   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">IBM StoredIQ Deployment and Configuration Guide</span></title>
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">IBM StoredIQ</span></title>
    <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
-      <title>IBM StoredIQ</title>
+      <title>Deployment and Configuration Guide</title>
       <topic href="topics/references/coverPage.html" data-id="coverPage" wh-toc-id="coverPage-d66e12">
          <title>Cover page</title>
          <shortdesc>
@@ -54,7 +54,7 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="topics/references/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e64">
+      <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e64">
          <title>IBM StoredIQ components</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ components.</p>
@@ -65,19 +65,23 @@
             <linktext class="- map/linktext ">IBM StoredIQ components</linktext><?ditaot genshortdesc?>
             <shortdesc class="- map/shortdesc ">A description of the IBM StoredIQ components.</shortdesc>
          </topicmeta>
-         <topic href="topics/references/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e75">
+         <topic href="topics/concepts/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e75">
             <title>Solution components</title>
             <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack(AppStack).     </p>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
+                  
+               </p>
             </shortdesc>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="solComp"></resourceid>
                <navtitle class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Solution components</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack(AppStack).     </shortdesc>
+               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
+                  
+               </shortdesc>
             </topicmeta>
          </topic>
-         <topic href="topics/references/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e86">
+         <topic href="topics/concepts/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e86">
             <title>Applications of IBM StoredIQ</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>

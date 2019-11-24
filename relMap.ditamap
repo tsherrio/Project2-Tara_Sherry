@@ -20,6 +20,7 @@
                 </topicmeta>
             </relcolspec>
         </relheader>
+        
         <relrow>
             <relcell>
                 <topicref href="topics/concepts/aboutPub.dita"></topicref>
@@ -27,7 +28,37 @@
             <relcell>
                 <topicref href="topics/references/prodLibrary.dita"></topicref>
                 <topicref href="topics/tasks/contactingSupp.dita"></topicref>
-                
+            </relcell>
+        </relrow>
+    </reltable>
+    
+    <reltable>
+        <relheader>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>About stored comp</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>Related solution comp</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>Related apps stored</navtitle>
+                </topicmeta>
+            </relcolspec>
+        </relheader>
+        
+        <relrow>
+            <relcell>
+                <topicref href="topics/concepts/storedComp.dita"></topicref>
+            </relcell>
+
+            <relcell>
+                <topicref href="topics/concepts/solComp.dita"></topicref>
+                <topicref href="topics/concepts/appsStored.dita"></topicref>
             </relcell>
         </relrow>
     </reltable>

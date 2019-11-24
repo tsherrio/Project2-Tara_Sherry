@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="autoClass">
+     
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <section>
+            <title></title>
+            <ul>
+                <li id="autoCla"><b>Auto-classification</b>: Automated document categorization, what IBM StoredIQ refers to as auto-classification models, integrates the IBM® Content Classification's classification model into the IBMStoredIQ infoset-generation process. Data Experts can use IBM Content Classification to train a classification model, which is then registered with IBM StoredIQ Administrator. The registered classification model can be applied to an existing infoset in IBM StoredIQ Data Workbench to generate new metadata for the objects in the infoset. Metadata can be used in rule-based filters to create newinfosets.</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

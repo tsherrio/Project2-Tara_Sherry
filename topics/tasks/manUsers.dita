@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="manUsers">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+        <section>
+            <title></title>
+            <ul>
+                <li id="manUse"><b>Managing users</b>: The user management area allows administrators to create users and manage users' access to the various IBM StoredIQ applications.</li>
+            </ul>
+        </section>
+    </taskbody>
+</task>

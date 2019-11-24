@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="viewingServ">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+        <section>
+            <title></title>
+            <ul>
+                <li id="viewServ1"><b>Viewing data servers and volumes</b>: Using IBM StoredIQ
+                    Administrator, the Administrator can identify what data servers are
+                    deployed, their location, what data is being managed, and the status of
+                    each dataserver in the system. Volume management is a central component
+                    of IBM StoredIQ. IBM StoredIQ Administrator also allows the
+                    Administrator to see what volumes are currently under management, which
+                    data server is responsible for that volume, the state of the volume
+                    after indexing, and the amount and size of information that is contained
+                    by each volume. Administrators can also add volumes to and delete
+                    volumes from data servers through this interface. 
+                    <p>IBM StoredIQ is configured for integration with Information Governance Catalog, 
+                    the Administrator can also manage which volumes are published to the governance catalog.
+                    </p>
+                </li>
+            </ul>
+        </section>
+    </taskbody>
+</task>

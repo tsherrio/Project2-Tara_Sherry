@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="manCon">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+        <section>
+            <title></title>
+            <ul>
+                <li id="manConn"><b>Managing concepts</b>: Provides the ability to relate business concepts to indexed data.</li>
+            </ul>
+        </section>
+    </taskbody>
+</task>

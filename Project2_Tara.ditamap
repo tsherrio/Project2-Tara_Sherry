@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>IBM StoredIQ Deployment and Configuration Guide</title>
-    
-    <topichead navtitle="IBM StoredIQ">
-                <topicref href="topics/references/coverPage.dita"></topicref>
-                <topicref href="topics/concepts/aboutPub.dita">
-                    <topicref href="topics/references/prodLibrary.dita"></topicref>
-                    <topicref href="topics/tasks/contactingSupp.dita"></topicref>
-                    <keydef keys="support" href="topics/references/contactWeb.dita"></keydef>
-                </topicref>
-                <topicref href="topics/references/storedComp.dita">
-                    <topicref href="topics/references/solComp.dita"></topicref>
-                    <topicref href="topics/references/appsStored.dita"></topicref>
-                </topicref>
+    <title>IBM StoredIQ</title>
+    <topichead navtitle="Deployment and Configuration Guide">
+        <topicref href="topics/references/coverPage.dita"></topicref>
+        <topicref href="topics/concepts/aboutPub.dita">
+            <topicref href="topics/references/prodLibrary.dita"></topicref>
+            <topicref href="topics/tasks/contactingSupp.dita"></topicref>
+            <keydef keys="support" href="topics/references/contactWeb.dita"></keydef>
+        </topicref>
+        
+        <topicref href="topics/concepts/storedComp.dita">
+            <topicref href="topics/concepts/solComp.dita"></topicref>
+            <topicref href="topics/concepts/appsStored.dita"></topicref>
+        </topicref> 
+        
+        
+        <topicgroup processing-role="resource-only">
+            <topicref href="topics/concepts/appsStored.dita">
+                <keydef keys="ibmAdmin" href="topics/concepts/ibmStoAdmin.dita"></keydef>
+                <keydef keys="ibmWB" href="topics/concepts/ibmDataWB.dita"></keydef>
+                <keydef keys="ibmDatSer" href="topics/concepts/ibmDatServ.dita"></keydef> 
+                
+                <keydef keys="viewSer1" href="topics/tasks/viewingServ.dita"></keydef>
+                <keydef keys="scheddHar" href="topics/tasks/schedHarv.dita"></keydef>
+                <keydef keys="creInf" href="topics/tasks/createInfo.dita"></keydef>
+                <keydef keys="manUs" href="topics/tasks/manUsers.dita"></keydef>
+                <keydef keys="conMaAc" href="topics/tasks/conManAct.dita"></keydef>
+                <keydef keys="manTar" href="topics/tasks/manTarg.dita"></keydef>
+                <keydef keys="repor" href="topics/concepts/reports.dita"></keydef>
+                <keydef keys="autoC" href="topics/concepts/autoClass.dita"></keydef>
+                <keydef keys="cartridg" href="topics/concepts/cartridges.dita"></keydef>
+                <keydef keys="manCo" href="topics/tasks/manCon.dita"></keydef>
+                <keydef keys="manMul" href="topics/tasks/manMule.dita"></keydef>
+                <keydef keys="datSerCla" href="topics/concepts/datServClass.dita"></keydef>
+                <keydef keys="dataDist" href="topics/concepts/dataDistrib.dita"></keydef>
+                <keydef keys="connApi" href="topics/concepts/connApiSdk.dita"></keydef>  
+            </topicref>
+        </topicgroup>
         
         
         
@@ -21,10 +45,10 @@
         
         <topicref href="secondMap.ditamap" format="ditamap"></topicref>
         <topicref href="relMap.ditamap" format="ditamap"></topicref>
-     </topichead>
-        
+    </topichead>
     
     
-        
+    
+    
     
 </map>

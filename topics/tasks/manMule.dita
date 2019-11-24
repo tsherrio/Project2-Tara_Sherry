@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="manMule">
+    
+    <!-- Insert into appStored.dita -->
+    
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+        <section>
+            <title></title>
+            <ul>
+                <li id="manMul"><b>Managing Mule scripts</b>: Helps you to create Mule scripts and upload script packages. These Mulescripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</li>
+            </ul>
+        </section>
+    </taskbody>
+</task>
