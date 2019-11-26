@@ -54,7 +54,12 @@
                 <stentry>ibmDataWB</stentry>
                 <stentry>Used "example" to define text.</stentry>
             </strow>
-
         </simpletable>
+        
+        <section>
+            <title></title>
+            <p>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications until otherwise indicated in new editions.</p>
+            <p>© Copyright International Business Machines Corporation 2001, 2019.US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</p>
+        </section>
     </refbody>
 </reference>

@@ -352,5 +352,80 @@
             </topicmeta>
          </topic>
       </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e326">
+         <title>glossary</title>
+         <topic href="topics/Glossary/Terms.html#gateway" data-id="gateway" wh-toc-id="gateway-d66e327">
+            <title>Gateway</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="gateway"></resourceid>
+               <navtitle class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Gateway</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_2.html#dataserver" data-id="dataserver" wh-toc-id="dataserver-d66e335">
+            <title>Data servers</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataserver"></resourceid>
+               <navtitle class="- topic/navtitle ">Data servers</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Data servers</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_3.html#appstack" data-id="appstack" wh-toc-id="appstack-d66e343">
+            <title>Application stack</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="appstack"></resourceid>
+               <navtitle class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Application stack</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_4.html#dataclassic" data-id="dataclassic" wh-toc-id="dataclassic-d66e351">
+            <title>DataServer - Classic</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataclassic"></resourceid>
+               <navtitle class="- topic/navtitle ">DataServer - Classic</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">DataServer - Classic</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_5.html#datadist" data-id="datadist" wh-toc-id="datadist-d66e359">
+            <title>DataServer - Distributed</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="datadist"></resourceid>
+               <navtitle class="- topic/navtitle ">DataServer - Distributed</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">DataServer - Distributed</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_6.html#autoclass" data-id="autoclass" wh-toc-id="autoclass-d66e367">
+            <title>Auto-classification</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="autoclass"></resourceid>
+               <navtitle class="- topic/navtitle ">Auto-classification</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Auto-classification</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_7.html#cartrdg" data-id="cartrdg" wh-toc-id="cartrdg-d66e375">
+            <title>Cartridges</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="cartrdg"></resourceid>
+               <navtitle class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cartridges</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_8.html#connapi" data-id="connapi" wh-toc-id="connapi-d66e383">
+            <title>Connector API SDK</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="connapi"></resourceid>
+               <navtitle class="- topic/navtitle ">Connector API SDK</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Connector API SDK</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_9.html#ibminsights" data-id="ibminsights" wh-toc-id="ibminsights-d66e391">
+            <title>IBM StoredIQ Insights</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibminsights"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Insights</linktext>
+            </topicmeta>
+         </topic>
+      </topic>
    </topic>
 </toc>
