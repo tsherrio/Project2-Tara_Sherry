@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="depIbmStoIq">
+    <title>Deploying IBM StoredIQ</title>
+    <shortdesc>IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.
+    </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+    </taskbody>
+</task>

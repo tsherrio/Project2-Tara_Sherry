@@ -178,7 +178,7 @@
             </topic>
          </topic>
       </topic>
-      <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e167">
+      <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e166">
          <title>Planning for deployment</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
@@ -189,7 +189,7 @@
             <linktext class="- map/linktext ">Planning for deployment</linktext><?ditaot genshortdesc?>
             <shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
          </topicmeta>
-         <topic href="topics/concepts/ovaConfigReq.html" data-id="ovaConfigReq" wh-toc-id="ovaConfigReq-d66e178">
+         <topic href="topics/concepts/ovaConfigReq.html" data-id="ovaConfigReq" wh-toc-id="ovaConfigReq-d66e177">
             <title>Open Virtual Appliance (OVA) configuration requirements</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
@@ -199,6 +199,156 @@
                <navtitle class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Open Virtual Appliance (OVA) configuration requirements</linktext><?ditaot genshortdesc?>
                <shortdesc class="- map/shortdesc "></shortdesc>
+            </topicmeta>
+            <topic href="topics/concepts/networkPortReq.html" data-id="networkPortReq" wh-toc-id="networkPortReq-d66e187">
+               <title>Network and port requirements</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For proper communication, the IBM StoredIQ components must be able to connect to each other.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="networkPortReq"></resourceid>
+                  <navtitle class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Network and port requirements</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc>
+               </topicmeta>
+               <topic href="topics/concepts/tcpPortRange.html" data-id="tcpPortRa" wh-toc-id="tcpPortRa-d66e198">
+                  <title>TCP: port ranges for the firewall</title>
+                  <shortdesc>
+                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</p>
+                  </shortdesc>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="tcpPortRa"></resourceid>
+                     <navtitle class="- topic/navtitle ">TCP: port ranges for the firewall</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">TCP: port ranges for the firewall</linktext><?ditaot genshortdesc?>
+                     <shortdesc class="- map/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc>
+                  </topicmeta>
+               </topic>
+               <topic href="topics/references/defaultOpenPorts.html" data-id="defOpenPort" wh-toc-id="defOpenPort-d66e209">
+                  <title>Default open ports</title>
+                  <shortdesc>
+                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following ports are open by default on the IBM StoredIQ.</p>
+                  </shortdesc>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="defOpenPort"></resourceid>
+                     <navtitle class="- topic/navtitle ">Default open ports</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">Default open ports</linktext><?ditaot genshortdesc?>
+                     <shortdesc class="- map/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc>
+                  </topicmeta>
+               </topic>
+            </topic>
+            <topic href="topics/concepts/EnvSizeGuide.html" data-id="EnvSizeGuide" wh-toc-id="EnvSizeGuide-d66e220">
+               <title>Environment sizing guidelines</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
+                     and use case scenarios that drive application use and         action execution.
+                  </p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="EnvSizeGuide"></resourceid>
+                  <navtitle class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Environment sizing guidelines</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
+                     and use case scenarios that drive application use and         action execution.
+                  </shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/stackProvPrereq.html" data-id="stackProPre" wh-toc-id="stackProPre-d66e231">
+               <title>Stack-provisioning prerequisites</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Before a deployment, verify that you meet these prerequisites.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="stackProPre"></resourceid>
+                  <navtitle class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Stack-provisioning prerequisites</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/licenseUsageMet.html" data-id="licUsageMet" wh-toc-id="licUsageMet-d66e242">
+               <title>License Metric Tool</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="licUsageMet"></resourceid>
+                  <navtitle class="- topic/navtitle ">License Metric Tool</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">License Metric Tool</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/security.html" data-id="security" wh-toc-id="security-d66e253">
+               <title>Security</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
+                     IBM StoredIQ into sensitive environments.
+                  </p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="security"></resourceid>
+                  <navtitle class="- topic/navtitle ">Security</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Security</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
+                     IBM StoredIQ into sensitive environments.
+                  </shortdesc>
+               </topicmeta>
+               <topic href="topics/references/defUserAcc.html" data-id="defUserAcc" wh-toc-id="defUserAcc-d66e264">
+                  <title>Default user accounts</title>
+                  <shortdesc>
+                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ comes with a set of default user accounts.</p>
+                  </shortdesc>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="defUserAcc"></resourceid>
+                     <navtitle class="- topic/navtitle ">Default user accounts</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">Default user accounts</linktext><?ditaot genshortdesc?>
+                     <shortdesc class="- map/shortdesc ">IBM StoredIQ comes with a set of default user accounts.</shortdesc>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="topics/tasks/deployIbmStoredIq.html" data-id="depIbmStoIq" wh-toc-id="depIbmStoIq-d66e275">
+         <title>Deploying IBM StoredIQ</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.     </p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="depIbmStoIq"></resourceid>
+            <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Deploying IBM StoredIQ</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.     </shortdesc>
+         </topicmeta>
+         <topic href="topics/tasks/deployVirtual.html" data-id="deployVirtual" wh-toc-id="deployVirtual-d66e286">
+            <title>Deploying the virtual appliances</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
+                  and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
+                  deployed first.
+               </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployVirtual"></resourceid>
+               <navtitle class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Deploying the virtual appliances</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
+                  and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
+                  deployed first.
+               </shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="topics/tasks/deployingMicroHyperV.html" data-id="deployingMicroHyperV" wh-toc-id="deployingMicroHyperV-d66e297">
+            <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
+                  on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+               </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployingMicroHyperV"></resourceid>
+               <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Deploying IBM StoredIQ on Microsoft Hyper-V</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
+                  on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+               </shortdesc>
             </topicmeta>
          </topic>
       </topic>

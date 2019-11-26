@@ -24,8 +24,10 @@
             </sthead>
             <strow>
                 <stentry>Scope</stentry>
-                <stentry>coverPage.dita</stentry>
-                <stentry>Set Note scope to peer: "Resource is part of the current set of content but may not be accessible at build time"</stentry>
+                <stentry>coverPage.dita, defaultOpenPorts.dita. Anywhere with links to pages outside
+                    of project spec.</stentry>
+                <stentry>Set scope to peer: "Resource is part of the current set of content but may
+                    not be accessible at build time"</stentry>
             </strow>
             <strow>
                 <stentry>Term</stentry>
@@ -52,6 +54,7 @@
                 <stentry>ibmDataWB</stentry>
                 <stentry>Used "example" to define text.</stentry>
             </strow>
+
         </simpletable>
     </refbody>
 </reference>

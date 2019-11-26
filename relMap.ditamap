@@ -2,64 +2,202 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title></title>
+    
+    <!-- Start table 1 About this Publication -->
     <reltable>
         <relheader>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>About publication</navtitle>
+                    <navtitle>About this publication</navtitle>
                 </topicmeta> 
             </relcolspec>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>Related library</navtitle>
+                    <navtitle>Product library</navtitle>
                 </topicmeta>
             </relcolspec>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>Related support</navtitle>
+                    <navtitle>Support contact</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec>
+                <topicmeta>
+                    <navtitle>Web contact</navtitle>
                 </topicmeta>
             </relcolspec>
         </relheader>
-        
+<!-- End table 1 metadata-->
         <relrow>
             <relcell>
-                <topicref href="topics/concepts/aboutPub.dita"></topicref>
+                <topicref href="topics/concepts/aboutPub.dita" collection-type="family"></topicref>
             </relcell>
             <relcell>
                 <topicref href="topics/references/prodLibrary.dita"></topicref>
                 <topicref href="topics/tasks/contactingSupp.dita"></topicref>
+                <topicref href="topics/tasks/contactingIbm.dita"></topicref>
             </relcell>
         </relrow>
     </reltable>
+    
+    <!-- End table 1 -->
+    <!-- Start table 2 IBM StoredIQ Components -->
     
     <reltable>
         <relheader>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>About stored comp</navtitle>
+                    <navtitle>StoredIQ components</navtitle>
                 </topicmeta>
             </relcolspec>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>Related solution comp</navtitle>
+                    <navtitle>Solution components</navtitle>
                 </topicmeta>
             </relcolspec>
             <relcolspec>
                 <topicmeta>
-                    <navtitle>Related apps stored</navtitle>
+                    <navtitle>StoredIQ applications</navtitle>
                 </topicmeta>
             </relcolspec>
         </relheader>
+        <!-- End table 2 metadata-->
         
+        <!-- 1st level -->
         <relrow>
             <relcell>
                 <topicref href="topics/concepts/storedComp.dita"></topicref>
             </relcell>
-
+            <!-- 2nd level -->
             <relcell>
                 <topicref href="topics/concepts/solComp.dita"></topicref>
-                <topicref href="topics/concepts/appsStored.dita"></topicref>
+                <topicref href="topics/concepts/appsStored.dita">
+                </topicref>
+            </relcell>
+            <!-- 3rd level  -->
+            <relcell>
+                <topicref href="topics/concepts/ibmDatServ.dita" collection-type="family"></topicref>    
+                <topicref href="topics/concepts/ibmStoAdmin.dita"></topicref>
+                <topicref href="topics/concepts/ibmDataWB.dita"></topicref>
+                <topicref href="topics/concepts/ibmStoInsights.dita"></topicref>
+                <topicref href="topics/concepts/ibmPolMan.dita"></topicref>
+                <topicref href="topics/concepts/ibmDeskData.dita"></topicref>
             </relcell>
         </relrow>
     </reltable>
+    
+    <!-- Start table 3 Planning for Deployment -->
+    
+    <reltable>
+<relheader>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Deployment planning</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>OVA config requirements</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Network and Port requirements</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>TCP port ranges</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Default open ports</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Environment sizing</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Stack provisioning pre-reqs</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>License usage metrics</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Security</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec>
+        <topicmeta>
+            <navtitle>Default user accounts</navtitle>
+        </topicmeta>
+    </relcolspec>
+    
+    <!-- End table 3 metadata-->  
+</relheader>
+        <relrow>
+            <!-- 1st level -->
+           <relcell>
+               <topicref href="topics/concepts/planDeploy.dita" collection-type="family"></topicref>
+           </relcell>
+            <!-- 2nd level -->
+            <relcell>
+                <topicref href="topics/concepts/ovaConfigReq.dita"></topicref>
+                <topicref href="topics/concepts/networkPortReq.dita">
+                    <topicref href="topics/concepts/tcpPortRange.dita"></topicref>
+                    <topicref href="topics/references/defaultOpenPorts.dita"></topicref>
+                </topicref>
+                <topicref href="topics/concepts/EnvSizeGuide.dita"></topicref>
+                <topicref href="topics/concepts/stackProvPrereq.dita"></topicref>
+                <topicref href="topics/concepts/licenseUsageMet.dita"></topicref>
+                <topicref href="topics/concepts/security.dita">
+                    <topicref href="topics/references/defUserAcc.dita"></topicref>
+                </topicref>
+            </relcell>
+                   
+        </relrow>
+    </reltable>
+    
+    <!-- Start table 4 Deploying IBM StoredIQ -->
+    
+<reltable>
+    <relheader>
+        <relcolspec>
+            <topicmeta>
+                <navtitle>StoredIQ deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        <relcolspec>
+            <topicmeta>
+                <navtitle>Virtual appliance deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        <relcolspec>
+            <topicmeta>
+                <navtitle>IBM StoredIQ and Microsoft Hyper-V deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        
+    <!-- End table 4 metadata -->
+    </relheader>
+    <relrow>
+        <relcell>
+            <topicref href="topics/tasks/deployIbmStoredIq.dita"></topicref>
+        </relcell>
+        <relcell>
+            <topicref href="topics/tasks/deployVirtual.dita"></topicref>
+            <topicref href="topics/tasks/deployingMicroHyperV.dita"></topicref>
+        </relcell>
+    </relrow>
+</reltable>
+    <!-- End table 4 -->  
+
 </map>

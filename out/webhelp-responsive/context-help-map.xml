@@ -16,10 +16,41 @@
    <appContext helpID="ibmDeskData" path="topics/concepts/ibmDeskData.html"/>
    <appContext helpID="planDeploy" path="topics/concepts/planDeploy.html"/>
    <appContext helpID="ovaConfigReq" path="topics/concepts/ovaConfigReq.html"/>
+   <appContext helpID="networkPortReq" path="topics/concepts/networkPortReq.html"/>
+   <appContext helpID="tcpPortRa" path="topics/concepts/tcpPortRange.html"/>
+   <appContext helpID="defOpenPort" path="topics/references/defaultOpenPorts.html"/>
+   <appContext helpID="EnvSizeGuide" path="topics/concepts/EnvSizeGuide.html"/>
+   <appContext helpID="stackProPre" path="topics/concepts/stackProvPrereq.html"/>
+   <appContext helpID="licUsageMet" path="topics/concepts/licenseUsageMet.html"/>
+   <appContext helpID="security" path="topics/concepts/security.html"/>
+   <appContext helpID="defUserAcc" path="topics/references/defUserAcc.html"/>
+   <appContext helpID="depIbmStoIq" path="topics/tasks/deployIbmStoredIq.html"/>
+   <appContext helpID="deployVirtual" path="topics/tasks/deployVirtual.html"/>
+   <appContext helpID="deployingMicroHyperV" path="topics/tasks/deployingMicroHyperV.html"/>
    <appContext helpID="aboutPub" path="topics/concepts/aboutPub.html"/>
    <appContext helpID="prodLibrary" path="topics/references/prodLibrary.html"/>
    <appContext helpID="support" path="topics/tasks/contactingSupp.html"/>
+   <appContext helpID="contactingIbm" path="topics/tasks/contactingIbm.html"/>
    <appContext helpID="storedComp" path="topics/concepts/storedComp.html"/>
    <appContext helpID="solComp" path="topics/concepts/solComp.html"/>
    <appContext helpID="appsStored" path="topics/concepts/appsStored.html"/>
+   <appContext helpID="ibmDatServ" path="topics/concepts/ibmDatServ.html"/>
+   <appContext helpID="ibmStoAdmin" path="topics/concepts/ibmStoAdmin.html"/>
+   <appContext helpID="ibmDataWB" path="topics/concepts/ibmDataWB.html"/>
+   <appContext helpID="ibmStoInsights" path="topics/concepts/ibmStoInsights.html"/>
+   <appContext helpID="ibmPolMan" path="topics/concepts/ibmPolMan.html"/>
+   <appContext helpID="ibmDeskData" path="topics/concepts/ibmDeskData.html"/>
+   <appContext helpID="planDeploy" path="topics/concepts/planDeploy.html"/>
+   <appContext helpID="ovaConfigReq" path="topics/concepts/ovaConfigReq.html"/>
+   <appContext helpID="networkPortReq" path="topics/concepts/networkPortReq.html"/>
+   <appContext helpID="tcpPortRa" path="topics/concepts/tcpPortRange.html"/>
+   <appContext helpID="defOpenPort" path="topics/references/defaultOpenPorts.html"/>
+   <appContext helpID="EnvSizeGuide" path="topics/concepts/EnvSizeGuide.html"/>
+   <appContext helpID="stackProPre" path="topics/concepts/stackProvPrereq.html"/>
+   <appContext helpID="licUsageMet" path="topics/concepts/licenseUsageMet.html"/>
+   <appContext helpID="security" path="topics/concepts/security.html"/>
+   <appContext helpID="defUserAcc" path="topics/references/defUserAcc.html"/>
+   <appContext helpID="depIbmStoIq" path="topics/tasks/deployIbmStoredIq.html"/>
+   <appContext helpID="deployVirtual" path="topics/tasks/deployVirtual.html"/>
+   <appContext helpID="deployingMicroHyperV" path="topics/tasks/deployingMicroHyperV.html"/>
 </map>

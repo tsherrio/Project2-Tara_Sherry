@@ -28,20 +28,31 @@
         </topicref> 
         
         <!-- Large heading group-->
-        <topicgroup>
             <topicref href="topics/concepts/planDeploy.dita">
-            <topicref href="topics/concepts/ovaConfigReq.dita"></topicref>
+            <topicref href="topics/concepts/ovaConfigReq.dita">
+                <topicref href="topics/concepts/networkPortReq.dita">
+                    <topicref href="topics/concepts/tcpPortRange.dita"></topicref>
+                    <topicref href="topics/references/defaultOpenPorts.dita"></topicref>
+                </topicref>  
+                <topicref href="topics/concepts/EnvSizeGuide.dita"></topicref>
+                <topicref href="topics/concepts/stackProvPrereq.dita"></topicref>
+                <topicref href="topics/concepts/licenseUsageMet.dita"></topicref>
+                <topicref href="topics/concepts/security.dita">
+                    <topicref href="topics/references/defUserAcc.dita"></topicref>
+                </topicref>
+            </topicref> 
             </topicref>
-        </topicgroup>
+        
+        <!-- Large heading group-->
+            <topicref href="topics/tasks/deployIbmStoredIq.dita">
+                <topicref href="topics/tasks/deployVirtual.dita"/>
+                <topicref href="topics/tasks/deployingMicroHyperV.dita"></topicref> 
+            </topicref>  
         
         
         <keydef keys="pics" href="common/images.dita"></keydef>
         <keydef keys="hazard" href="topics/concepts/ovaConfigReq.dita"></keydef>
-        <topicref href="relMap.ditamap" format="ditamap"></topicref>
+        <topicref href="relMap.ditamap" format="ditamap"></topicref>    
+    
     </topichead>
-    
-    
-    
-    
-    
 </map>
