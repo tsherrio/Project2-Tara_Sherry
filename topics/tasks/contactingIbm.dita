@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="contactingIbm">
+    <title>Contacting IBM</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context></context>
+            <section id="contactIbm">
+                <title>Contacting IBM</title>
+                <p>For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer
+                    service in the United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
+                <p>For more information about how to contact IBM, including TTY service, <ph
+                    conkeyref="support/contact"/></p>
+            </section>
+    </taskbody>
+</task>

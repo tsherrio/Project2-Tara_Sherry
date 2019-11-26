@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ibmPolMan">
+    <title>IBM StoredIQ Policy Manager</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <section id="ibmStPolMan">
+            <title>IBM StoredIQ Policy Manager</title>
+            <p>IBM StoredIQ Policy Manager allows users to run mature policies and processes at
+                scale across a wider range of data.</p>
+            <image conkeyref="pics/polMa"/>
+            <p>The users can define and run systemwide policies, focusing on the execution of the
+                process rather than understanding or reviewing affected data objects. Additionally,
+                with reports of IBM StoredIQ Policy Manager, you can record what actions were
+                conducted, when they were conducted, and what data was affected by the policy's
+                execution.</p>
+        </section>
+    </conbody>
+</concept>

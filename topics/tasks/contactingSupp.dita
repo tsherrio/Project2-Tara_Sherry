@@ -14,22 +14,15 @@
                     </ul>
                 </p>
             <p>Or, <ph conkeyref="support/contact"/>
-            </p>
-            
+            </p> 
         </section>
         <section>
             <title>IBM Knowledge Center</title>
-            <p>The IBM StoredIQ documentation is available in <xref
-                    href="https://www.ibm.com/support/knowledgecenter/" scope="external"
-                    format="html">IBM Knowledge Center</xref>.</p>
+            <p>The IBM StoredIQ documentation is available in <xref href="https://www.ibm.com/support/knowledgecenter/" scope="external" format="html">IBM Knowledge Center</xref>.</p>
         </section>
-        <section>
-            <title>Contacting IBM</title>
-            <p>For general inquiries, call 800-IBM-4YOU (800-426-4968). To contact IBM customer
-                service in the United States or Canada, call 1-800-IBM-SERV (1-800-426-7378).</p>
-            <p>For more information about how to contact IBM, including TTY service, <ph
-                    conkeyref="support/contact"/></p>
-        </section>
+        <section conref="contactingIbm.dita#contactingIbm/contactIbm"/>
+        
+        
         
     </taskbody>
 </task>

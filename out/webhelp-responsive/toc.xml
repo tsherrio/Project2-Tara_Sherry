@@ -52,9 +52,21 @@
                   phone number:
                </shortdesc>
             </topicmeta>
+            <topic href="topics/tasks/contactingIbm.html" data-id="contactingIbm" wh-toc-id="contactingIbm-d66e64">
+               <title>Contacting IBM</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="contactingIbm"></resourceid>
+                  <navtitle class="- topic/navtitle ">Contacting IBM</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Contacting IBM</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
          </topic>
       </topic>
-      <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e64">
+      <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e74">
          <title>IBM StoredIQ components</title>
          <shortdesc>
             <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ components.</p>
@@ -65,7 +77,7 @@
             <linktext class="- map/linktext ">IBM StoredIQ components</linktext><?ditaot genshortdesc?>
             <shortdesc class="- map/shortdesc ">A description of the IBM StoredIQ components.</shortdesc>
          </topicmeta>
-         <topic href="topics/concepts/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e75">
+         <topic href="topics/concepts/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e85">
             <title>Solution components</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
@@ -81,16 +93,112 @@
                </shortdesc>
             </topicmeta>
          </topic>
-         <topic href="topics/concepts/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e86">
+         <topic href="topics/concepts/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e96">
             <title>Applications of IBM StoredIQ</title>
             <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
             </shortdesc>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="appsStored"></resourceid>
                <navtitle class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Applications of IBM StoredIQ</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+            </topicmeta>
+            <topic href="topics/concepts/ibmDatServ.html" data-id="ibmDatServ" wh-toc-id="ibmDatServ-d66e106">
+               <title>IBM StoredIQ Data Server</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDatServ"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Data Server</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/ibmStoAdmin.html" data-id="ibmStoAdmin" wh-toc-id="ibmStoAdmin-d66e116">
+               <title>IBM StoredIQ Administrator</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoAdmin"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Administrator</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/ibmDataWB.html" data-id="ibmDataWB" wh-toc-id="ibmDataWB-d66e126">
+               <title>IBM StoredIQ Data Workbench</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDataWB"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Data Workbench</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/ibmStoInsights.html" data-id="ibmStoInsights" wh-toc-id="ibmStoInsights-d66e136">
+               <title>IBM StoredIQ Insights</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoInsights"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Insights</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/ibmPolMan.html" data-id="ibmPolMan" wh-toc-id="ibmPolMan-d66e146">
+               <title>IBM StoredIQ Policy Manager</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmPolMan"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Policy Manager</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/concepts/ibmDeskData.html" data-id="ibmDeskData" wh-toc-id="ibmDeskData-d66e156">
+               <title>IBM StoredIQ Desktop Data Collector</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDeskData"></resourceid>
+                  <navtitle class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">IBM StoredIQ Desktop Data Collector</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc "></shortdesc>
+               </topicmeta>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e167">
+         <title>Planning for deployment</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="planDeploy"></resourceid>
+            <navtitle class="- topic/navtitle ">Planning for deployment</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Planning for deployment</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
+         </topicmeta>
+         <topic href="topics/concepts/ovaConfigReq.html" data-id="ovaConfigReq" wh-toc-id="ovaConfigReq-d66e178">
+            <title>Open Virtual Appliance (OVA) configuration requirements</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ovaConfigReq"></resourceid>
+               <navtitle class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Open Virtual Appliance (OVA) configuration requirements</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
             </topicmeta>
          </topic>
       </topic>

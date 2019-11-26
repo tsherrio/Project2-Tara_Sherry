@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="images">
+    <title></title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <refbodydiv>
+            <section>
+                <title></title>
+                <p>
+                    <image id="datServ" href="../resources/images/png/dataServer.PNG"></image>
+                    <image id="iqAdmin" href="../resources/images/png/admin.PNG"></image>
+                    <image id="workBen" href="../resources/images/png/workbench.PNG"></image>
+                    <image id="insight" href="../resources/images/png/insights.PNG"></image>
+                    <image id="polMa" href="../resources/images/png/polMan.PNG"></image>
+                    <image></image>
+                </p>
+            </section>
+        </refbodydiv>
+    </refbody>
+</reference>

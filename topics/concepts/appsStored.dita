@@ -2,37 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="appsStored">
     <title>Applications of IBM StoredIQ</title>
-    <shortdesc>IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <shortdesc></shortdesc>
     <conbody>
         <conbodydiv>
-            <!-- Insert ibmDatServ.dita here -->
-            <section conkeyref="ibmDatSer/storedIqServ"/>
-            <!-- Insert ibmStoAdmin.dita here -->    
-            <section conkeyref="ibmAdmin/storedIqAd"/>  
             <section>
-                <title></title>
-                <ul>
-                    <li conkeyref="viewSer1/viewServ1"/>
-                    <li conkeyref="scheddHar/schHarv"/>
-                    <li conkeyref="creInf/createInf"/>
-                    <li conkeyref="manUs/manUse"/>
-                    <li conkeyref="conMaAc/conMan"/>
-                    <li conkeyref="manTar/manTar"/>
-                    <li conkeyref="repor/report"/>
-                    <li conkeyref="autoC/autoCla"/>
-                    <li conkeyref="cartridg/cart"/>
-                    <li conkeyref="manCo/manConn"/>
-                    <li conkeyref="manMul/manMul"/>
-                    <li conkeyref="datSerCla/datSerClas"/>
-                    <li conkeyref="dataDist/dataDis"/>
-                    <li conkeyref="connApi/connAp"/>
-                </ul>  
-                <p></p>
+                <p>IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
             </section>
-
-            
-                
-            
+            <!-- Deleted out neccessary links to adjust hierarchy in transformed document -->
         </conbodydiv>
     </conbody>
 </concept>
