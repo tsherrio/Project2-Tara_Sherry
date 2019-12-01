@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"IBM StoredIQ components","shortdesc":"\n               <p class=\"shortdesc\">A description of the IBM StoredIQ components.</p>\n            ","href":"topics\/concepts\/storedComp.html","attributes": {"data-id":"storedComp",},"menu": {"hasChildren":false,},"tocID":"storedComp-d66e76","next":"storedComp-d66e76",}]});

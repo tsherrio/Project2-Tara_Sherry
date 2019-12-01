@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\topics\references?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/topics/references/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="coverPage" xtrc="reference:1;3:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Cover page</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Cover page and additional document information.</shortdesc>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;8:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;9:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;10:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;11:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;16:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+        <table class="- topic/table " xtrc="table:1;17:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+            <tgroup class="- topic/tgroup " cols="1" xtrc="tgroup:1;18:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1"/><tbody class="- topic/tbody " xtrc="tbody:1;19:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                    <row class="- topic/row " xtrc="row:1;20:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;21:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                            <note class="- topic/note " importance="high" xtrc="note:1;22:53" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Before using this information and the product it supports, read the information in <xref class="- topic/xref " format="pdf" href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" xtrc="xref:1;22:296" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita"><?ditaot usertext?>Notices.</xref></note>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <simpletable class="- topic/simpletable " keycol="1" xtrc="simpletable:1;28:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+            <sthead class="- topic/sthead " xtrc="sthead:1;29:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:1;30:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">WHAT</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:2;31:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">WHERE</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:3;32:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">WHY</stentry>
+                
+            </sthead>
+            <strow class="- topic/strow " xtrc="strow:1;35:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:4;36:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Scope</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:5;37:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">coverPage.dita, defaultOpenPorts.dita. Anywhere with links to pages outside
+                    of project spec.</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:6;39:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Set scope to peer: "Resource is part of the current set of content but may
+                    not be accessible at build time"</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:2;42:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:7;43:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Term</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:8;44:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">aboutPub.dita</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:9;45:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Introduced new term</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:3;47:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:10;48:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Phrase</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:11;49:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">contactingSupp.dita</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:12;50:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Reused phrase in topic</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:4;52:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:13;53:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Bullets</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:14;54:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">dataServClass.dita</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:15;55:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Bullet list for readability</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:5;57:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:16;58:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Conkeyref</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:17;59:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">appsStored.dita</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:18;60:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Reusable content strategy</stentry>
+            </strow>
+            <strow class="- topic/strow " xtrc="strow:6;62:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+                <stentry class="- topic/stentry " xtrc="stentry:19;63:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Example</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:20;64:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">ibmDataWB</stentry>
+                <stentry class="- topic/stentry " xtrc="stentry:21;65:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">Used "example" to define text.</stentry>
+            </strow>
+        </simpletable>
+        
+        <section class="- topic/section " xtrc="section:1;69:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">
+            
+            <p class="- topic/p " xtrc="p:1;71:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications until otherwise indicated in new editions.</p>
+            <p class="- topic/p " xtrc="p:2;72:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/coverPage.dita">© Copyright International Business Machines Corporation 2001, 2019.US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</p>
+        </section>
+    </refbody>
+</reference>

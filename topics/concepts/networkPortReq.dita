@@ -3,6 +3,22 @@
 <concept id="networkPortReq">
     <title>Network and port requirements</title>
     <shortdesc>For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <!-- Index term synonymous -->
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p>You must enable network connectivity from the following locations</p>
         <ul>

@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>IBM StoredIQ</title>
-    <mapref>
-        <topicmeta>
-            <navtitle>mainmap</navtitle>
-            <author>Tara Sherry</author>
-            <keywords>
-               <indexterm></indexterm>
-            </keywords>
-        </topicmeta>
-    </mapref>
-    <topichead navtitle="Deployment and Configuration Guide">
-        <topicref href="topics/references/coverPage.dita"/>
-        
-        <!-- Large heading group-->
-        <topicref href="topics/concepts/aboutPub.dita">
+    <title><b>IBM StoredIQ</b> Deployment and Configuration Guide</title>
+    <topicmeta>
+        <author>Tara Sherry</author>
+        <copyright>
+            <copyryear year="2019"/>
+            <copyrholder>© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright>
+    </topicmeta>
+    
+    <!-- Topic "coverpage.dita" with document info set to "resource" so it won't appear in final output -->
+    <topicref href="topics/references/coverPage.dita" processing-role="resource-only"/>
+    
+    <!-- Main heading group-->
+    <topicgroup collection-type="family">
+        <topicref href="topics/concepts/aboutPub.dita" importance="high" status="unchanged" processing-role="normal">
             <topicref href="topics/references/prodLibrary.dita"/>
             <topicref href="topics/tasks/contactingSupp.dita">
                 <keydef keys="support" href="topics/references/contactWeb.dita"/>
-                <topicref keys="contactIbm" href="topics/tasks/contactingIbm.dita"/>
+                <topicref keys="contactIbm" href="topics/tasks/contactingIbm.dita" processing-role="normal"/>
             </topicref>
         </topicref>
-        
-        <!-- Large heading group-->
-        <topicref href="topics/concepts/storedComp.dita">
+    </topicgroup>
+    
+    <!-- Main heading group-->
+    <topicgroup collection-type="family">
+        <topicref href="topics/concepts/storedComp.dita" importance="high" status="unchanged" processing-role="normal">
             <topicref href="topics/concepts/solComp.dita"/>
             <topicref href="topics/concepts/appsStored.dita">
                 <topicref href="topics/concepts/ibmDatServ.dita"/>
@@ -35,44 +37,74 @@
                 <topicref href="topics/concepts/ibmDeskData.dita"/>
             </topicref>
         </topicref> 
-        
-        <!-- Large heading group-->
-            <topicref href="topics/concepts/planDeploy.dita">
+    </topicgroup>
+    
+    <!-- Main heading group-->
+    <topicgroup collection-type="family">
+        <topicref href="topics/concepts/planDeploy.dita" importance="high" status="unchanged" processing-role="normal">
             <topicref href="topics/concepts/ovaConfigReq.dita">
                 <topicref href="topics/concepts/networkPortReq.dita">
-                    <topicref href="topics/concepts/tcpPortRange.dita"></topicref>
-                    <topicref href="topics/references/defaultOpenPorts.dita"></topicref>
+                    <topicref href="topics/concepts/tcpPortRange.dita"/>
+                    <topicref href="topics/references/defaultOpenPorts.dita"/>
                 </topicref>  
-                <topicref href="topics/concepts/EnvSizeGuide.dita"></topicref>
-                <topicref href="topics/concepts/stackProvPrereq.dita"></topicref>
-                <topicref href="topics/concepts/licenseUsageMet.dita"></topicref>
+                <topicref href="topics/concepts/EnvSizeGuide.dita"/>
+                <topicref href="topics/concepts/stackProvPrereq.dita"/>
+                <topicref href="topics/concepts/licenseUsageMet.dita"/>
                 <topicref href="topics/concepts/security.dita">
-                    <topicref href="topics/references/defUserAcc.dita"></topicref>
+                    <topicref href="topics/references/defUserAcc.dita"/>
                 </topicref>
             </topicref> 
-            </topicref>
-        
-        <!-- Large heading group-->
-            <topicref href="topics/tasks/deployIbmStoredIq.dita">
-                <topicref href="topics/tasks/deployVirtual.dita"/>
-                <topicref href="topics/tasks/deployingMicroHyperV.dita"></topicref> 
-            </topicref>  
-        
-        
-        <keydef keys="pics" href="common/images.dita"></keydef>
-        <keydef keys="hazard" href="topics/concepts/ovaConfigReq.dita"></keydef>
-        <topicref href="relMap.ditamap" format="ditamap"></topicref>    
-        <topichead navtitle="glossary">
-            <topicref href="topics/Glossary/Terms.dita#gateway"/>
-            <topicref href="topics/Glossary/Terms.dita#dataserver"/>
-            <topicref href="topics/Glossary/Terms.dita#appstack"/>
-            <topicref href="topics/Glossary/Terms.dita#dataclassic"/>
-            <topicref href="topics/Glossary/Terms.dita#datadist"/>
-            <topicref href="topics/Glossary/Terms.dita#autoclass"/>
-            <topicref href="topics/Glossary/Terms.dita#cartrdg"/>
-            <topicref href="topics/Glossary/Terms.dita#connapi"/>
-            <topicref href="topics/Glossary/Terms.dita#ibminsights"/>
-                   </topichead>
+        </topicref>
+    </topicgroup> 
     
-    </topichead>
+    <!-- Main heading group-->
+    <topicgroup collection-type="family">
+        <topicref href="topics/tasks/deployIbmStoredIq.dita" importance="high" status="changed" processing-role="normal">
+            <topicref href="topics/tasks/deployVirtual.dita"/>
+            <topicref href="topics/tasks/deployingMicroHyperV.dita"/> 
+        </topicref>  
+    </topicgroup>
+    
+    <!-- Images -->
+    <keydef keys="pics" href="common/images.dita"/> 
+    <!-- Hazard -->
+    <keydef keys="hazard" href="topics/concepts/ovaConfigReq.dita"/>
+    <!-- Tables -->
+    <keydef keys="defOpAppSta" href="common/tables/defOpPoStack.dita"/>
+    <keydef keys="defOpPoDatSer" href="common/tables/defOpPoDaServ.dita"/>
+    <keydef keys="defOpPoAlClus" href="common/tables/defOpPoElClut.dita"/>
+    <keydef keys="defOpPoG" href="common/tables/defOpPoGate.dita"/>
+    <keydef keys="defUs" href="common/tables/defaultUserAcc.dita"/>
+    
+    <!-- Relationship map -->
+    <mapref href="relMap.ditamap" format="ditamap" importance="high"/>
+    <!-- Index map -->
+    <mapref href="mapfiles/index.ditamap" format="ditamap"/> 
+    
+    
+    <!-- Start of glossary -->   
+    <topicgroup collection-type="family" importance="normal">
+        <topichead navtitle="Glossary" processing-role="normal">
+            <topichead navtitle="A">
+                <topicref href="topics/Glossary/Terms.dita#appstack"/>
+                <topicref href="topics/Glossary/Terms.dita#autoclass"/>
+            </topichead>
+            <topichead navtitle="C">
+                <topicref href="topics/Glossary/Terms.dita#cartrdg"/>
+                <topicref href="topics/Glossary/Terms.dita#connapi"/>
+            </topichead>
+            <topichead navtitle="D">
+                <topicref href="topics/Glossary/Terms.dita#dataserver"/>
+                <topicref href="topics/Glossary/Terms.dita#dataclassic"/>
+                <topicref href="topics/Glossary/Terms.dita#datadist"/>
+            </topichead>
+            <topichead navtitle="G">
+                <topicref href="topics/Glossary/Terms.dita#gateway"/>
+            </topichead>
+            <topichead navtitle="I">
+                <topicref href="topics/Glossary/Terms.dita#ibminsights"/>
+            </topichead>
+        </topichead>
+    </topicgroup>
+    
 </map>

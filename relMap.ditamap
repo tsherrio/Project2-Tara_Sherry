@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title></title>
+    <title>Relationship table map</title>
+    <topicmeta>
+        <author>Tara Sherry</author>
+        <copyright>
+            <copyryear year="2019"/>
+            <copyrholder>© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright>
+    </topicmeta>
     
     <!-- Start table 1 About this Publication -->
     <reltable>

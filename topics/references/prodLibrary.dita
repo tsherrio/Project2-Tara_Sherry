@@ -3,6 +3,20 @@
 <reference id="prodLibrary">
     <title>IBM StoredIQ product library</title>
     <shortdesc>The following documents are available in the IBM® StoredIQ® product library.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <refbody>
         <section>
             <title></title>

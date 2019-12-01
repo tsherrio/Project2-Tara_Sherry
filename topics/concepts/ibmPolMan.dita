@@ -3,12 +3,26 @@
 <concept id="ibmPolMan">
     <title>IBM StoredIQ Policy Manager</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <section id="ibmStPolMan">
             <title>IBM StoredIQ Policy Manager</title>
             <p>IBM StoredIQ Policy Manager allows users to run mature policies and processes at
                 scale across a wider range of data.</p>
-            <image conkeyref="pics/polMa"/>
+            <fig><image conkeyref="pics/polMa"/></fig> 
             <p>The users can define and run systemwide policies, focusing on the execution of the
                 process rather than understanding or reviewing affected data objects. Additionally,
                 with reports of IBM StoredIQ Policy Manager, you can record what actions were

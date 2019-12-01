@@ -3,6 +3,20 @@
 <task id="support">
     <title>Contacting IBM StoredIQ customer support</title>
     <shortdesc>For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this phone number:</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <taskbody>
         <context> 
         </context>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\common?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/common/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="images" xtrc="reference:1;3:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+            <created class="- topic/created " date="15/11/2019" xtrc="created:1;8:41" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+        </critdates>
+        <permissions class="- topic/permissions " view="internal" xtrc="permissions:1;10:39" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+        <metadata class="- topic/metadata " xtrc="metadata:1;11:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;12:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;13:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;14:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;15:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;19:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+        <refbodydiv class="- topic/bodydiv     reference/refbodydiv " xtrc="refbodydiv:1;20:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+            <section class="- topic/section " xtrc="section:1;21:22" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+                <title class="- topic/title " xtrc="title:2;22:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                <p class="- topic/p " xtrc="p:1;23:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita">
+                    <image class="- topic/image " href="../resources/images/png/dataServer.PNG" id="datServ" placement="inline" xtrc="image:1;24:87" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                    <image class="- topic/image " href="../resources/images/png/admin.PNG" id="iqAdmin" placement="inline" xtrc="image:2;25:82" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                    <image class="- topic/image " href="../resources/images/png/workbench.PNG" id="workBen" placement="inline" xtrc="image:3;26:86" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                    <image class="- topic/image " href="../resources/images/png/insights.PNG" id="insight" placement="inline" xtrc="image:4;27:85" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                    <image class="- topic/image " href="../resources/images/png/polMan.PNG" id="polMa" placement="inline" xtrc="image:5;28:81" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                    <image class="- topic/image " placement="inline" xtrc="image:6;29:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+                </p>
+            </section>
+        </refbodydiv>
+    </refbody>
+</reference>

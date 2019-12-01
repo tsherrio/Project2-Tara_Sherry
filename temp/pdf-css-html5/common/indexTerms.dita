@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\common?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/common/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="indexTerms" xtrc="reference:1;3:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita"/>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><metadata class="- topic/metadata " xtrc="metadata:1;7:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+            <keywords class="- topic/keywords " id="in1" xtrc="keywords:1;8:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+             <keyword class="- topic/keyword " xtrc="keyword:1;9:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">   
+             </keyword>
+                
+                  
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;13:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">action</indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:2;16:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application data
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:3;17:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">disk encryption</indexterm>
+                </indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application stack
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">upgrade</indexterm>
+                    <index-see class="+ topic/index-base indexing-d/index-see " xtrc="index-see:1;23:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">appstack</index-see>
+                    <index-see-also class="+ topic/index-base indexing-d/index-see-also " xtrc="index-see-also:1;24:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">AppStack</index-see-also>
+                </indexterm>
+                
+                
+                
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;32:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita"> </refbody>
+</reference>

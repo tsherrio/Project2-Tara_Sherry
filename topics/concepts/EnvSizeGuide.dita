@@ -5,6 +5,20 @@
     <shortdesc>To size an environment precisely, you must understand the factors such as harvest
         frequency, complexity of the source, and use case scenarios that drive application use and
         action execution.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p>The general design guidelines for IBM StoredIQ are as follows:</p>
         <ul>

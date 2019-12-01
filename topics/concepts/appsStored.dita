@@ -2,13 +2,18 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="appsStored">
     <title>Applications of IBM StoredIQ</title>
-    <shortdesc></shortdesc>
-    <conbody>
-        <conbodydiv>
-            <section>
-                <p>IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
-            </section>
-            <!-- Deleted out neccessary links to adjust hierarchy in transformed document -->
-        </conbodydiv>
-    </conbody>
+    <shortdesc>IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
 </concept>

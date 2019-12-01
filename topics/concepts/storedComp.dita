@@ -3,13 +3,28 @@
 <concept id="storedComp">
     <title>IBM StoredIQ components</title>
     <shortdesc>A description of the IBM StoredIQ components.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p>The IBM StoredIQ solution consists of these components:</p> 
        <ul>
            <li>the application stack</li>
            <li>the gateway</li>
            <li>the dataserver</li>
-           <li>Optionally the Elasticsearch cluster</li>
+           <li><option>Optionally the Elasticsearch cluster</option></li>
        </ul>
     </conbody>
 </concept>

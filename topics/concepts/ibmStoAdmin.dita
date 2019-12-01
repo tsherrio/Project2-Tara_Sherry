@@ -3,13 +3,28 @@
 <concept id="ibmStoAdmin">
     <title>IBM StoredIQ Administrator</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <!-- Index conkeyref -->
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
-        <!-- Insert into appsStored.dita -->
         <section id="storedIqAd">
             <title>IBM StoredIQ Administrator</title>
             <p>IBM StoredIQ Administrator helps you manage global assets common to the distributed
                 infrastructure behind IBM StoredIQ applications.</p>
-            <image conkeyref="pics/iqAdmin"/>
+            <fig><image conkeyref="pics/iqAdmin"/></fig>
             <p>IBM StoredIQ Administrator provides at-a-glance understanding of the different issues
                 that can crop up in the IBM StoredIQ environment. These views are unique to the IBM
                 StoredIQ Administrator application as they provide an overview of how the system is

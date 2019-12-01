@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\topics\concepts?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/topics/concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="solComp" xtrc="concept:1;3:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Solution components</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">IBM StoredIQ provides three solution components: the gateway, data servers, and
+        application stack (AppStack).
+    </shortdesc>
+    <prolog class="- topic/prolog " xtrc="prolog:1;8:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;9:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <created class="- topic/created " date="15/11/2019" xtrc="created:1;10:41" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita"/>
+        </critdates>
+        <permissions class="- topic/permissions " view="all" xtrc="permissions:1;12:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita"/>
+        
+        <metadata class="- topic/metadata " xtrc="metadata:1;14:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+             <keyword class="- topic/keyword " xtrc="keyword:1;9:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">   
+             </keyword>
+                
+                  
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;13:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">action</indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:2;16:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application data
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:3;17:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">disk encryption</indexterm>
+                </indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application stack
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">upgrade</indexterm>
+                    <index-see class="+ topic/index-base indexing-d/index-see " xtrc="index-see:1;23:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">appstack</index-see>
+                    <index-see-also class="+ topic/index-base indexing-d/index-see-also " xtrc="index-see-also:1;24:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">AppStack</index-see-also>
+                </indexterm>
+                
+                
+                
+            </keywords>
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;16:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;17:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;18:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;19:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;24:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+        <conbodydiv class="- topic/bodydiv concept/conbodydiv " xtrc="conbodydiv:1;25:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <section class="- topic/section " xtrc="section:1;26:22" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+                <title class="- topic/title " xtrc="title:2;27:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Gateway</title>
+                <p class="- topic/p " xtrc="p:1;28:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">The gateway communicates between the data servers and the application stack. The application stackpolls the gateway for information about the data on the data servers. The data servers push the information to the gateway</p>
+            </section>
+        </conbodydiv>
+        <conbodydiv class="- topic/bodydiv concept/conbodydiv " xtrc="conbodydiv:2;31:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <section class="- topic/section " xtrc="section:2;32:22" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+                <title class="- topic/title " xtrc="title:3;33:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Data servers</title>
+                <p class="- topic/p " xtrc="p:2;34:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">A data server obtains the data from supported data sources and indexes it. By indexing this data, you gain information about unstructured data such as file size, file data types, file owners.</p>
+                <p class="- topic/p " xtrc="p:3;35:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">The data server pushes the information about volumes and indexes to the gateway so it can be communicated to the application stack. Multiple data servers feed into a single gateway.</p>
+                <p class="- topic/p " xtrc="p:4;36:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Data servers can be categorized in two types: DataServer - Classic and DataServer
+                    - Distributed. A data server of the type DataServer - Classic uses the embedded
+                    PostgreSQL database for storing the index. With a data server of the type
+                    DataServer - Distributed, the index is stored in an Elasticsearch cluster. Data
+                    servers of this type also provide better performance in search queries. They can
+                    manage much larger amounts of data than data servers of the type DataServer -
+                    Classic, thus making the IBM StoredIQ deployments more scalable.</p>
+                <p class="- topic/p " xtrc="p:5;43:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">You can have both types of data servers in your IBM StoredIQ deployment.</p>
+                <p class="- topic/p " xtrc="p:6;44:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">In addition to completing standard administrative tasks, administrators can deploy the IBM StoredIQDesktop Data Collector and index desktops from the data serve</p>
+            </section>
+        </conbodydiv>
+        <conbodydiv class="- topic/bodydiv concept/conbodydiv " xtrc="conbodydiv:3;47:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <section class="- topic/section " xtrc="section:3;48:22" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+                <title class="- topic/title " xtrc="title:4;49:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Application stack</title>
+                <p class="- topic/p " xtrc="p:7;50:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">The application stack provides the user interface for the IBM StoredIQ Administrator, IBM StoredIQ Data Workbench, IBM StoredIQ Insights, and the IBM StoredIQ Policy Manager products.</p>
+                <p class="- topic/p " xtrc="p:8;51:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">The synchronization feature for integration with a governance catalog is also part of the application stack.</p>
+            </section>
+        </conbodydiv>
+        <conbodydiv class="- topic/bodydiv concept/conbodydiv " xtrc="conbodydiv:4;54:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+            <section class="- topic/section " xtrc="section:4;55:22" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">
+                <title class="- topic/title " xtrc="title:5;56:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">Elasticsearch cluster</title>
+                <p class="- topic/p " xtrc="p:9;57:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/solComp.dita">The Elasticsearch cluster attached to a data server of the type DataServer - Distributed provides a single data store for all metadata and content of harvested objects. Indexed data is distributed automatically across the nodes in the cluster. Indexing and queries are load-balanced across all nodes. Nodes can be added dynamically without downtime and the indexing process can use these newly added nodes without further setup.</p>
+            </section>
+        </conbodydiv>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:6;80:63" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><link class="- topic/link " format="dita" href="../../topics/concepts/storedComp.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:5;76:66" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ components</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A description of the IBM StoredIQ components.</desc></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmDatServ.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:8;86:91" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Data Server</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmStoAdmin.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:9;87:67" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Administrator</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmDataWB.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:10;88:65" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Data Workbench</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmStoInsights.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:11;89:70" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Insights</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmPolMan.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:12;90:65" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Policy Manager</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link><link class="- topic/link " format="dita" href="../../topics/concepts/ibmDeskData.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:13;91:67" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ Desktop Data Collector</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></concept>

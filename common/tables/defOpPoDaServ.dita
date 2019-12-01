@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!-- Default open ports Data Server table -->
+
+<reference id="defOpPoDa">
+    <title></title>
+    <refbody>  
+        <table frame="all" rowsep="1" colsep="1" id="defOpPoDat"> 
+            <title><b>Default open ports on the IBM StoredIQ data server</b></title>
+            <tgroup cols="3">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <colspec colname="col3"/>
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Port number</entry>
+                        <entry colsep="1">Protocol</entry>
+                        <entry colsep="1">Service</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry colsep="1">80</entry>
+                        <entry colsep="1">tcp</entry>
+                        <entry colsep="1">PROD-web</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">443</entry>
+                        <entry colsep="1">tcp</entry>
+                        <entry colsep="1">PROD-https (UI and WebServices APIs)</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">11103</entry>
+                        <entry colsep="1" morerows="1">tcp</entry>
+                        <entry colsep="1" morerows="1">PROD-transport (IBM StoredIQ transport
+                            services; communication between the gateway and the data server)</entry>
+                    </row>
+                    <row>
+                        <entry colsep="1">11104</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\topics\concepts?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/topics/concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="ovaConfigReq" xtrc="concept:1;3:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+    
+    <title class="- topic/title " xtrc="title:1;5:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Open Virtual Appliance (OVA) configuration requirements</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;6:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;7:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;8:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+            <created class="- topic/created " date="15/11/2019" xtrc="created:1;9:41" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"/>
+        </critdates>
+        <permissions class="- topic/permissions " view="all" xtrc="permissions:1;11:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"/>
+        <metadata class="- topic/metadata " xtrc="metadata:1;12:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+             <keyword class="- topic/keyword " xtrc="keyword:1;9:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">   
+             </keyword>
+                
+                  
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;13:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">action</indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:2;16:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application data
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:3;17:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">disk encryption</indexterm>
+                </indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application stack
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">upgrade</indexterm>
+                    <index-see class="+ topic/index-base indexing-d/index-see " xtrc="index-see:1;23:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">appstack</index-see>
+                    <index-see-also class="+ topic/index-base indexing-d/index-see-also " xtrc="index-see-also:1;24:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">AppStack</index-see-also>
+                </indexterm>
+                
+                
+                
+            </keywords>
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;14:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;15:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;16:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;17:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;22:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+        <section class="- topic/section " id="ovaConReq" xtrc="section:1;23:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+            <title class="- topic/title " xtrc="title:2;24:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Open Virtual Appliance (OVA) configuration requirements</title>
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">IBM StoredIQ is deployed as virtual appliances and is supported in VMware ESXi 5.0
+                (all fix pack levels) or VMware ESXi 6.0 (all fix pack levels) environments. You
+                must have a virtual infrastructure that meets the IBM StoredIQ hardware
+                requirements.
+            </p>
+            <p class="- topic/p " xtrc="p:2;30:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;30:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Application stack</b>
+                <ul class="- topic/ul " xtrc="ul:1;31:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                    <li class="- topic/li " xtrc="li:1;32:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">vCPU: 2</li>
+                    <li class="- topic/li " xtrc="li:2;33:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Memory: 4 G</li>
+                    <li class="- topic/li " xtrc="li:3;34:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Storage:
+                        <ul class="- topic/ul " xtrc="ul:2;35:29" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                            <li class="- topic/li " xtrc="li:4;36:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Primary disk (vmdisk1): 21 GB</li>
+                            <li class="- topic/li " xtrc="li:5;37:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data disk (vmdisk2): 10 GB</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p class="- topic/p " xtrc="p:3;42:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;42:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Gateway server</b>
+                <ul class="- topic/ul " xtrc="ul:3;43:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                    <li class="- topic/li " xtrc="li:6;44:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">vCPU: 4</li>
+                    <li class="- topic/li " xtrc="li:7;45:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Memory: 8 GB</li>
+                    <li class="- topic/li " xtrc="li:8;46:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Storage:
+                        <ul class="- topic/ul " xtrc="ul:4;47:29" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                            <li class="- topic/li " xtrc="li:9;48:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Primary disk (vmdisk1): 100 GB</li>
+                            <li class="- topic/li " xtrc="li:10;49:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data disk (vmdisk2): 75 GB</li>
+                            <li class="- topic/li " xtrc="li:11;50:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Swap disk (vmdisk3): 40 - 100 GB</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p class="- topic/p " xtrc="p:4;55:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;55:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">DataServer - Classic</b>
+                <ul class="- topic/ul " xtrc="ul:5;56:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                    <li class="- topic/li " xtrc="li:12;57:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">vCPU: 4 <p class="- topic/p " xtrc="p:5;57:36" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Even though increasing the number of vCPUs increases performance,
+                        the actual benefits depend on whether the specific host is
+                        oversubscribed or not</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:13;61:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Memory: 16 GB <p class="- topic/p " xtrc="p:6;61:42" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">While the minimum value works under light-load condition,
+                        as the load increases, the data server quickly starts using swap space.
+                        For high load situations, increasing RAM beyond 16 GB can benefit
+                        performance. Monitoring swap usage can provide insight.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:14;66:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Storage
+                        <ul class="- topic/ul " xtrc="ul:6;67:29" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                            <li class="- topic/li " xtrc="li:15;68:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Primary disk (vmdisk1, SCSI 0:0): Default is 150 GB <p class="- topic/p " xtrc="p:7;68:88" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">This virtual
+                                disk has an associated VMDK that contains the IBM StoredIQ
+                                operating code. Do not change its size.</p>
+                                <hazardstatement class="+ topic/note hazard-d/hazardstatement " xtrc="hazardstatement:1;71:50" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                                    <messagepanel class="+ topic/ul hazard-d/messagepanel " xtrc="messagepanel:1;72:51" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                                        <typeofhazard class="+ topic/li hazard-d/typeofhazard " id="haz1" importance="high" xtrc="typeofhazard:1;73:83" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"/>
+                                        <howtoavoid class="+ topic/li hazard-d/howtoavoid " xtrc="howtoavoid:1;74:53" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">If you delete the primary disk, you delete the
+                                            operating system, and the IBM StoredIQ software; the
+                                            virtual machine might need to be
+                                            scrapped.</howtoavoid>
+                                    </messagepanel>
+                                </hazardstatement>
+                            </li>
+                            <li class="- topic/li " xtrc="li:16;81:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data disk (vmdisk2, SCSI 0:1): Default is 2 TB <p class="- topic/p " xtrc="p:8;81:83" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">This virtual disk
+                                can be resized according to expectations on the amount of
+                                harvest data to be stored. For purposes of estimation, the index
+                                storage requirement for metadata is about 30 GBper TB of managed
+                                source data. Full-text indexing requires an extra 170 GB per TB.
+                                Therefore, the default data disk size is targeted for managing
+                                10 TB of source information.</p>
+                            </li>
+                            <li class="- topic/li " xtrc="li:17;89:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Swap disk (vmdisk3, SCSI 0:2): Default is 40 G <p class="- topic/p " xtrc="p:9;89:83" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">When under load,
+                                the data server can use much RAM; therefore, having ample swap
+                                space is prudent. The minimum swap size is equal to the amount
+                                of RAM configured for the virtual machine. For best performance
+                                under load, place this disk on the highest speed data store
+                                available to the host.</p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p class="- topic/p " xtrc="p:10;100:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">The general size limits for a data server are 150 million objects or 500 defined
+                volumes, whichever limit is reached first. Assuming an average object size of 200 KB
+                equals about 30 TB of managed storage across 30 volumes of 5 million objects each,
+                the index storage requirement for metadata on~30 TB of storage that contains
+                uncompressed general office documents is ~330 GB (11 GB per TB).Add 100 GB per TB of
+                managed storage for full-text or snippet index. For example, to support 30 TB of
+                storage that is indexed for metadata, you need 8 TB indexed for full-text search and
+                extracted text (snippet cache) of 8 TB for auto-classification. A total of 1.9 TB of
+                storage is required (metadata: 330GB, full-text: 800 GB, snippet cache: 800 GB)</p>
+            <p class="- topic/p " xtrc="p:11;109:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data-server performance is impacted by the IOPS available from the storage subsystem.
+                For each data server under maximum workload, at least 650 IOPS generally delivers
+                acceptable performance. In the situations where there is a high load on the system,
+                the IOPS that is used can reach up to 7000 with main write operations.</p>
+            
+            <p class="- topic/p " xtrc="p:12;114:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;114:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">DataServer - Distribute</b>
+                <ul class="- topic/ul " xtrc="ul:7;115:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                    <li class="- topic/li " xtrc="li:18;116:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">vCPU: 4</li>
+                    <li class="- topic/li " xtrc="li:19;117:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Memory: 16 GB</li>
+                    <li class="- topic/li " xtrc="li:20;118:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Storage:
+                        <ul class="- topic/ul " xtrc="ul:8;119:29" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                            <li class="- topic/li " xtrc="li:21;120:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Primary disk (vmdisk1, SCSI 0:0): Default is 150 G</li>
+                            <li class="- topic/li " xtrc="li:22;121:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data disk (vmdisk2, SCSI 0:1): Default is 2 TB</li>
+                            <li class="- topic/li " xtrc="li:23;122:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Swap disk (vmdisk3, SCSI 0:2): Default is 40 G</li>
+                        </ul>
+                    </li>
+                </ul>   
+            </p>
+            <p class="- topic/p " xtrc="p:13;127:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">If you deploy this type of data server, you must also deploy an Elasticsearch cluster with at least one node. If you deploy a cluster with more nodes, each of the Elasticsearch nodes must meet the listed requirements.</p> 
+            
+            <p class="- topic/p " xtrc="p:14;129:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita"><b class="+ topic/ph hi-d/b " xtrc="b:5;129:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Each Elasticsearch node</b>
+                <ul class="- topic/ul " xtrc="ul:9;130:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                    <li class="- topic/li " xtrc="li:24;131:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">vCPU: 1</li>
+                    <li class="- topic/li " xtrc="li:25;132:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Memory: 32 GB</li>
+                    <li class="- topic/li " xtrc="li:26;133:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Storage:
+                        <ul class="- topic/ul " xtrc="ul:10;134:29" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">
+                            <li class="- topic/li " xtrc="li:27;135:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Primary disk (vmdisk1): 100 GB</li>
+                            <li class="- topic/li " xtrc="li:28;136:33" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">Data disk (vmdisk2): 1 TB</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p class="- topic/p " xtrc="p:15;141:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">The required memory depends on the index size that is handled by the data node. For a better performance, consider increasing the memory. The total memory available to the node must be distributed between the host operating system, the Elasticsearch java heap space, and the kernel file system caches. For example, if the system has 32 GB memory, 2 GB must be allocated for the host operating system, 15 GB for the java heap space, and the remaining 15 GB for the file system caches.</p>
+            <p class="- topic/p " xtrc="p:16;142:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ovaConfigReq.dita">The data disk (vmdisk2) can be resized according to expectations on the amount of harvest data to be stored.</p>
+            
+        </section> 
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:15;160:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><link class="- topic/link " format="dita" href="../../topics/concepts/planDeploy.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:14;156:90" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Planning for deployment</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</desc></link></linkpool></related-links></concept>

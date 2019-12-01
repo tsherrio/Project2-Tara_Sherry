@@ -3,6 +3,21 @@
 <reference id="coverPage">
     <title>Cover page</title>
     <shortdesc>Cover page and additional document information.</shortdesc>
+    <prolog>
+        <author>Tara Sherry</author>
+        <copyright>
+            <copyryear year="2019"/>
+            <copyrholder>© Copyright International Business Machines Corporation 2001, 2019.US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    
     <refbody>
         <table>
             <tgroup cols="1">
@@ -54,10 +69,20 @@
                 <stentry>ibmDataWB</stentry>
                 <stentry>Used "example" to define text.</stentry>
             </strow>
+            <strow>
+                <stentry>Planning for Deployment</stentry>
+                <stentry>planDeploy.dita</stentry>
+                <stentry>Changed heading to Plan for Deployment to prevent topic from being mistaken for task.</stentry>
+            </strow>
+            <strow>
+                <stentry>Images</stentry>
+                <stentry>All images</stentry>
+                <stentry>Useo of figures for clarity.</stentry>
+            </strow>
         </simpletable>
         
         <section>
-            <title></title>
+            <!-- Including copyright info as seen in original document at foot of page. Copyright metadata at top of page won't appear in output. -->
             <p>This edition applies to Version 7.6.0.19 of product number 5724M86 and to all subsequent releases and modifications until otherwise indicated in new editions.</p>
             <p>© Copyright International Business Machines Corporation 2001, 2019.US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</p>
         </section>

@@ -3,8 +3,21 @@
 <concept id="ibmDatServ">
     <title>IBM StoredIQ Data Server</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
-        <!-- Insert into appsStored.dita -->
         <section id="storedIqServ">
             <title>IBM StoredIQ Data Server</title>
             <p>IBM StoredIQ Data Server user interface provides access to data server
@@ -12,7 +25,7 @@
                 of the jobs and system details. Administrators can manage information about
                 servers and conduct various configurations on the system and application
                 settings.</p>
-            <image conkeyref="pics/datServ"></image>
+            <fig><image conkeyref="pics/datServ"></image></fig>
         </section>
     </conbody>
 </concept>

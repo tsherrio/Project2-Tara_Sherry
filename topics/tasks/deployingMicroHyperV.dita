@@ -3,6 +3,20 @@
 <task id="deployingMicroHyperV">
     <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
     <shortdesc>As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <taskbody>
         <context>
             <p>Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the procedure described here, the following software prerequisites must be met:</p>
@@ -20,14 +34,14 @@
                     <ol>
                         <li>Download the OVA.</li>
                         <li>Extract the contents of the OVA by using 7-zip for Windows or tar for the Linux operating system.</li>
-                        <li>Decompress the vmdk.gz archive by using 7-zip for Windows or gunzip for Linux.</li>
-                        <li>Delete everything except the vmdk file when the OVA extraction is complete.</li>
+                        <li>Decompress the `<codeph>vmdk.gz</codeph> archive by using 7-zip for Windows or gunzip for Linux.</li>
+                        <li>Delete everything except the <codeph>vmdk</codeph> file when the OVA extraction is complete.</li>
                     </ol>
                 </li>
-                <li>Convert the VMWare .vmdk file to a Microsoft Hyper-V .vhdx file.<p>For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
+                <li>Convert the V<codeph>MWare .vmdk</codeph> file to a Microsoft Hyper-V .vhdx file.<p>For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
                     <ul>
                         <li><xref href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn874008(v=ws.11)?redirectedfrom=MSDN" scope="external" format="html">Use Microsoft Virtual Machine Converter</xref></li>
-                        <li><xref href="Use%20Microsoft%20Virtual%20Machine%20Converter" scope="external" format="html">Using qemu-img</xref></li>
+                        <li><xref href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-tips_and_tricks-using_qemu_img" scope="external" format="html">Using qemu-img</xref></li>
                     </ul>
                 </li>
                 <li>Build a virtual machine.

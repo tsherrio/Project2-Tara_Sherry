@@ -3,6 +3,21 @@
 <task id="deployVirtual">
     <title>Deploying the virtual appliances</title>
     <shortdesc>Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server, and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be deployed first.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <taskbody>
         <prereq>Ensure that all prerequisites for the deployment described in the planning section are met and that the required software packages are available on your local system before you start this task.</prereq>
         <context>

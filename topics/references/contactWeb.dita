@@ -3,6 +3,21 @@
 <reference id="contactWeb">
     <title></title>
     <shortdesc></shortdesc>
+    <prolog>
+        <author>Tara Sherry</author>
+        <copyright>
+            <copyryear year="2019"/>
+            <copyrholder>© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    
     <refbody> 
         <section>
             <title></title>

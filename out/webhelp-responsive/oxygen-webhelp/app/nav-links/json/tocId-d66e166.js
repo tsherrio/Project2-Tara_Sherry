@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"***","shortdesc":"\n            <p class=\"shortdesc\">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>\n         ","href":"topics\/concepts\/planDeploy.html","attributes": {"data-id":"planDeploy",},"menu": {"hasChildren":true,},"tocID":"planDeploy-d66e167","next":"planDeploy-d66e167",}]});

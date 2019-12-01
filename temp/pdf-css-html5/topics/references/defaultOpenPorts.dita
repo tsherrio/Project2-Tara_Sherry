@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\topics\references?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/topics/references/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="defOpenPort" xtrc="concept:1;3:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Default open ports</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">The following ports are open by default on the IBM StoredIQ.</shortdesc>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <created class="- topic/created " date="15/11/2019" xtrc="created:1;8:41" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+        </critdates>
+        <permissions class="- topic/permissions " view="all" xtrc="permissions:1;10:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+        <metadata class="- topic/metadata " xtrc="metadata:1;11:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;12:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;13:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;14:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;15:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;20:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+        <p class="- topic/p " xtrc="p:1;21:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;21:15" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">SSH port 22</b></p>
+        <p class="- topic/p " xtrc="p:2;22:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell (SSH) communication and allows remote administration access to the VM. In general, traffic is encrypted using password authentication. To add a layer of security, you can establish key-based authentication for passwordless SSH logins to any of the IBM StoredIQ nodes in your environment as described in <xref class="- topic/xref " format="pdf" href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" xtrc="xref:1;22:564" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"><?ditaot usertext?>Configuring SSH key-based authentication” on page 45.</xref>“</p>
+        
+        
+        <section class="- topic/section " id="defOpAppTable" xtrc="section:1;25:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:2;26:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Default open ports on the AppStack</title>
+            <simpletable class="- topic/simpletable " keycol="1" xtrc="simpletable:1;27:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <sthead class="- topic/sthead " xtrc="sthead:1;28:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:1;29:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Port number</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:2;30:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Protocol</stentry>
+                </sthead>
+                <strow class="- topic/strow " xtrc="strow:1;32:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:3;33:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">22</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:4;34:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:2;36:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:5;37:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">80</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:6;38:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:3;40:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:7;41:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">443</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:8;42:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                </strow>
+            </simpletable>
+            
+            
+            <table class="- topic/table " id="defOpPoTable" xtrc="table:1;47:38" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <title class="- topic/title " xtrc="title:3;48:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Default open ports on the IBM StoredIQ data server</title>
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;49:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:1;50:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:2;51:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:3;52:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;53:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                        <row class="- topic/row " xtrc="row:1;54:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" valign="top" xtrc="entry:1;55:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Port number</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="top" xtrc="entry:2;56:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Protocol</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="top" xtrc="entry:3;57:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Service</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;60:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                        <row class="- topic/row " xtrc="row:2;61:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;62:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">80</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;63:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;64:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-web</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;66:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;67:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">443</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;68:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;69:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-https (UI and WebServices APIs)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;71:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" rowsep="1" xtrc="entry:10;72:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">11103</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" rowsep="-1" xtrc="entry:11;73:76" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" rowsep="-1" xtrc="entry:12;74:76" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-transport (IBM StoredIQ transport services; communication between the gateway and the data server)</entry> 
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;76:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;77:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">11104</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;78:51" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;79:51" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section> 
+        
+        
+        <section class="- topic/section " xtrc="section:2;87:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:4;88:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Enable or disable ports or services on the IBM StoredIQ data server</title>
+            <p class="- topic/p " xtrc="p:3;89:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To manage ports, you can use the <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:1;89:57" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">/usr/local/storediq/bin/util/port_handler.pyc script</codeph> with the appropriate parameter:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:1;90:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc <i class="+ topic/ph hi-d/i " xtrc="i:1;90:80" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-parameter</i></codeblock>
+        <sectiondiv class="- topic/sectiondiv " xtrc="sectiondiv:1;91:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <div class="- topic/div " xtrc="div:1;92:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+            <dl class="- topic/dl " xtrc="dl:1;93:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <dlentry class="- topic/dlentry " xtrc="dlentry:1;94:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <dt class="- topic/dt " xtrc="dt:1;95:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-s</dt>
+                    <dd class="- topic/dd " xtrc="dd:1;96:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To list the current rules in iptables</dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " xtrc="dl:2;99:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <dlentry class="- topic/dlentry " xtrc="dlentry:2;100:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <dt class="- topic/dt " xtrc="dt:2;101:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-l</dt>
+                    <dd class="- topic/dd " xtrc="dd:2;102:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To list the supported services</dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " xtrc="dl:3;105:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <dlentry class="- topic/dlentry " xtrc="dlentry:3;106:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <dt class="- topic/dt " xtrc="dt:3;107:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-d <i class="+ topic/ph hi-d/i " xtrc="i:2;107:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">port_number|'port_range'</i></dt>
+                    <dd class="- topic/dd " xtrc="dd:3;108:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To delete a port or a range of port numbers from iptables, for example:</dd>  
+                </dlentry>
+            </dl>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:2;111:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc -d '21200:21299'</codeblock>
+            <dl class="- topic/dl " xtrc="dl:4;112:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <dlentry class="- topic/dlentry " xtrc="dlentry:4;113:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <dt class="- topic/dt " xtrc="dt:4;114:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-e 'service_name</dt>
+                    <dd class="- topic/dd " xtrc="dd:4;115:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To enable a specific service, for example, to enable HTTPS services:</dd>
+                </dlentry>
+            </dl>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:3;118:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc -e 'PROD-https'</codeblock>
+            <dl class="- topic/dl " xtrc="dl:5;119:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <dlentry class="- topic/dlentry " xtrc="dlentry:5;120:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <dt class="- topic/dt " xtrc="dt:5;121:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">-d 'service_name</dt>
+                    <dd class="- topic/dd " xtrc="dd:5;122:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To disable a specific service, for example, to disable HTTPS services:</dd>
+                </dlentry>
+            </dl>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:4;125:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc -d 'PROD-https'</codeblock>
+        </sectiondiv> 
+        </section>
+        
+        
+        
+        
+        <section class="- topic/section " id="defElasticTable" xtrc="section:3;132:39" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:5;133:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Default open ports on the nodes in the Elasticsearch cluster</title>
+            <p class="- topic/p " xtrc="p:4;134:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+            <simpletable class="- topic/simpletable " id="defElastTable" xtrc="simpletable:2;135:45" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <sthead class="- topic/sthead " xtrc="sthead:2;136:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:9;137:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Port number</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:10;138:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Protocol</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:11;139:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Service</stentry>
+                </sthead>
+                <strow class="- topic/strow " xtrc="strow:4;141:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:12;142:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">21</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:13;143:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:14;144:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">ftp</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:5;146:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:15;147:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">22</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:16;148:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:17;149:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">sshd</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:6;151:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:18;152:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">80</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:19;153:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:20;154:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:7;156:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:21;157:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:22;158:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:23;159:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:8;161:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:24;162:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">8888</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:25;163:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:26;164:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">SimpleHTTPServer (used for copying the <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:2;164:77" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">siq-elasticsearch.yml</codeph> configuration file from the Elasticsearch node to the dataserver)</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:9;166:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:27;167:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">9200</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:28;168:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp6</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:29;169:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">docker-proxy (listening for RESTrequests) <p class="- topic/p " xtrc="p:5;169:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">You can restrict access to this port by either enabling SearchGuard or by setting up a firewall. For more information, see <xref class="- topic/xref " format="html" href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" xtrc="xref:2;169:359" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"><?ditaot usertext?>“Securing Elasticsearch cluster communication with SearchGuard” on page 51</xref> or <xref class="- topic/xref " format="html" href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" xtrc="xref:3;169:605" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"><?ditaot usertext?>“Restricting access to port 9200 on Elasticsearch nodes” on page 52.</xref></p></stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:10;171:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:30;172:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">9300</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:31;173:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp6</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:32;174:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">docker-proxy (internode communication)</stentry>
+                </strow>
+            </simpletable>
+            
+            
+            <table class="- topic/table " id="defOpPoGateTable" xtrc="table:2;179:42" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <title class="- topic/title " xtrc="title:6;180:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Default open ports on the IBM StoredIQ gateway</title>
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:2;181:35" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:4;182:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:5;183:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colsep="1" rowheader="headers" rowsep="1" xtrc="colspec:6;184:68" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:2;185:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                        <row class="- topic/row " xtrc="row:6;186:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" valign="top" xtrc="entry:16;187:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Port number</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="top" xtrc="entry:17;188:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Protocol</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" valign="top" xtrc="entry:18;189:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Service</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:2;192:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                        <row class="- topic/row " xtrc="row:7;193:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:19;194:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">22</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:20;195:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:21;196:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-ssh</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;198:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:22;199:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">80</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:23;200:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:24;201:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-web</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;203:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:25;204:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">443</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:26;205:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:27;206:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-https (UI and WebServices APIs)</entry> 
+                        </row>
+                        <row class="- topic/row " xtrc="row:10;208:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:28;209:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">5432</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:29;210:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:30;211:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-postgres</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:11;213:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:31;214:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">5434</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" rowsep="-1" xtrc="entry:32;215:76" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">tcp</entry>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" rowsep="-1" xtrc="entry:33;216:76" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">PROD-transport (IBM StoredIQ transport services; communication between the gateway and the data server)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:12;218:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" rowsep="1" xtrc="entry:34;219:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">8765</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" rowsep="0" xtrc="entry:35;220:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" rowsep="0" xtrc="entry:36;221:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                        <row class="- topic/row " xtrc="row:13;223:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:37;224:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">7766</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" rowsep="0" xtrc="entry:38;225:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" rowsep="0" xtrc="entry:39;226:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                        <row class="- topic/row " xtrc="row:14;228:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:40;229:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">11102</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" rowsep="0" xtrc="entry:41;230:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9" rowsep="0" xtrc="entry:42;231:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;233:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:43;234:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">11103</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" rowsep="0" xtrc="entry:44;235:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="10" rowsep="0" xtrc="entry:45;236:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                        <row class="- topic/row " xtrc="row:16;238:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                            <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:46;239:64" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">11104</entry>
+                            <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" rowsep="0" xtrc="entry:47;240:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                            <entry align="left" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="11" rowsep="0" xtrc="entry:48;241:75" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        
+        
+        <section class="- topic/section " xtrc="section:4;249:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:7;250:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Supported chain and rules on the IBM StoredIQ gateway</title>
+            <p class="- topic/p " xtrc="p:6;251:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">In iptables, the following firewall and chain rules are defined:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:5;252:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">'PROD-transport':['5434','8765','7766','11102','11103','11104'], 
+                'PROD-https':['443'],
+                'PROD-ssh':['22'],            
+                'PROD-web':['80'],            
+                'PROD-postgres':[’5432’]
+            </codeblock>
+            <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:6;258:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">'desktop' service:
+                'PROD-broker':['21000'],            
+                'PROD-collectionsvc':['21300:21399'],            
+                'PROD-desktopupgrade':['21004'],            
+                'PROD-objlistmgr':['21100:21199'],            
+                'PROD-objlistsvc':['21200:21299'],            
+                'PROD-registration':['21001'],            
+                'PROD-session':['21002'],            
+                'PROD-task':['21003'],
+            </codeblock>
+        </section>
+        
+        <section class="- topic/section " xtrc="section:5;270:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:8;271:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Open ports for desktop client access to the data server</title>
+            <p class="- topic/p " xtrc="p:7;272:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">To open ports for desktop client access to the data server on OVA deployed systems, follow these steps:</p>
+            <ol class="- topic/ol " xtrc="ol:1;273:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+                <li class="- topic/li " xtrc="li:1;274:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"> Log in to the data server as root and run this command:
+                <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:7;275:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc -e desktop</codeblock></li>
+                <li class="- topic/li " xtrc="li:2;276:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Run this command: <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:3;276:47" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">iptables -L INPUT</codeph>
+                    <p class="- topic/p " xtrc="p:8;277:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">In the output of the command, check the list position of the rule that is
+                        named PROD-reject, for example, the 6th position on the list.</p>
+                </li>
+                <li class="- topic/li " xtrc="li:3;280:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Run this command: <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:4;280:47" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">iptables -A INPUT -j PROD-reject</codeph></li>
+                <li class="- topic/li " xtrc="li:4;281:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Run this command: <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:5;281:47" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">iptables -D INPUT list_position</codeph>
+                    <p class="- topic/p " xtrc="p:9;282:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"><i class="+ topic/ph hi-d/i " xtrc="i:3;282:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">list_position</i> is the position number of the PROD-reject rule that you determined in step 2.</p></li>
+                <li class="- topic/li " xtrc="li:5;283:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">Run the following command:
+                    <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:8;284:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">python /usr/local/storediq/bin/util/port_handler.pyc -e desktop</codeblock>
+                </li>
+            </ol>
+        </section>
+        <section class="- topic/section " xtrc="section:6;288:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">
+            <title class="- topic/title " xtrc="title:9;289:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita"/>
+            <note class="- topic/note " type="tip" xtrc="note:1;290:30" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/references/defaultOpenPorts.dita">These steps are required only on an IBM StoredIQ OVA deployed system.
+                The correct ports are open on an upgraded system.</note>
+        </section> 
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:18;163:78" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><link class="- topic/link " format="dita" href="../../topics/concepts/planDeploy.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:14;156:90" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Planning for deployment</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</desc></link></linkpool></related-links></concept>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="defOpPoElClut">
+    <title></title>
+    
+<!-- Default open ports Elasticsearch cluster table -->
+<refbody>
+    <table frame="all" rowsep="1" colsep="1" id="defOpPoElClu">
+        <title><b>Default open ports on the nodes in the Elasticsearch cluster</b></title>
+        <tgroup cols="3">
+            <colspec colname="co1" colsep="1" rowsep="1"/>
+            <colspec colname="co2" colsep="1" rowsep="1"/>
+            <colspec colname="co3" colsep="1" rowsep="1"/>
+            <thead>
+                <row>
+                    <entry>Port number</entry>
+                    <entry>Protocol</entry>
+                    <entry>Service</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>21</entry>
+                    <entry>tcp</entry>
+                    <entry>ftp</entry>
+                </row>
+                <row>
+                    <entry>22</entry>
+                    <entry>tcp</entry>
+                    <entry>sshd</entry>
+                </row>
+                <row>
+                    <entry>80</entry>
+                    <entry>tcp</entry>
+                    <entry></entry>
+                </row>
+                <row>
+                    <entry>443</entry>
+                    <entry>tcp</entry>
+                    <entry></entry>
+                </row>
+                <row>
+                    <entry>8888</entry>
+                    <entry>tcp</entry>
+                    <entry>SimpleHTTPServer (used for copying the <codeph>siq-elasticsearch.yml</codeph> configuration file from the Elasticsearch node to the dataserver)</entry>
+                </row>
+                <row>
+                    <entry>9200</entry>
+                    <entry>tcp6</entry>
+                    <entry>docker-proxy (listening for RESTrequests) <p>You can restrict access to this port by either enabling SearchGuard or by setting up a firewall. For more information, see <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="html">“Securing Elasticsearch cluster communication with SearchGuard” on page 51</xref> or <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="html">“Restricting access to port 9200 on Elasticsearch nodes” on page 52.</xref></p></entry>
+                </row>
+                <row>
+                    <entry>9300</entry>
+                    <entry>tcp6</entry>
+                    <entry>docker-proxy (internode communication)</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+</refbody>
+</reference>

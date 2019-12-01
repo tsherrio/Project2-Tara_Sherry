@@ -3,13 +3,37 @@
 <concept id="ibmStoInsights">
     <title>IBM StoredIQ Insights</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <section id="ibmStoIns">
             <title>IBM StoredIQ Insights</title>
-                <p>IBM StoredIQ Insights provides dynamic and interactive filtering for your data with easy access to all metadata and instant plain-text preview of document content for full-text indexed volume.</p>
-                <p>Faceted search lets you drill down to refine your search results as needed. In addition, you can apply any valid IBM StoredIQ filter query. Tags let you categorize the data for easier management. Visual representations of search results help you gain further insights into your data. Several chart types let youlook at and explore data from different perspectives, thus helping you identify patterns and relationships very quickly.</p>
-                <p>With IBM StoredIQ Insights, you can search data that is managed and indexed by a data server of the type DataServer - Distributed. In mixed deployments that have classic and distributed data servers, only the content from distributed data servers will be searchable.</p>
-            <image conkeyref="pics/insight"></image>
+            <p>IBM StoredIQ Insights provides dynamic and interactive filtering for your data with
+                easy access to all metadata and instant plain-text preview of document content for
+                full-text indexed volume.</p>
+            <p>Faceted search lets you drill down to refine your search results as needed. In
+                addition, you can apply any valid IBM StoredIQ filter query. Tags let you categorize
+                the data for easier management. Visual representations of search results help you
+                gain further insights into your data. Several chart types let youlook at and explore
+                data from different perspectives, thus helping you identify patterns and
+                relationships very quickly.</p>
+            <p>With IBM StoredIQ Insights, you can search data that is managed and indexed by a data
+                server of the type DataServer - Distributed. In mixed deployments that have classic
+                and distributed data servers, only the content from distributed data servers will be
+                searchable.</p>
+            <fig><image conkeyref="pics/insight"/></fig>
         </section>
     </conbody>
 </concept>

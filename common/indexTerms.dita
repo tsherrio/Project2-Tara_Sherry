@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="indexTerms">
+    <title></title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <keywords id="in1">
+             <keyword>   
+             </keyword>
+                
+                <!-- Index -->  
+                <indexterm>action</indexterm>
+                
+                <!-- Nest 1 -->
+                <indexterm>application data
+                    <indexterm>disk encryption</indexterm>
+                </indexterm>
+                
+                <!-- See 1 -->
+                <indexterm>application stack 
+                    <indexterm>upgrade
+                        <index-see>appstack</index-see>
+                        <index-see-also>AppStack</index-see-also>
+                    </indexterm>
+                </indexterm>
+                
+                <!-- Index -->
+                <indexterm>back up</indexterm>
+                
+                <!-- Index -->
+                <indexterm>boot partition</indexterm>
+                
+                <!-- Nest 2 -->
+                <indexterm>certificates
+                    <indexterm>replacing</indexterm>
+                    <indexterm>secure gateway communication</indexterm>
+                    <indexterm>stunnel</indexterm>
+                </indexterm>
+                
+                <!-- Index -->
+                <indexterm>components of the IBM StoredIQ solution</indexterm>
+                
+                <!-- Nest 3 / See 2 -->
+                <indexterm>configuration
+                    <indexterm>IBM StoredIQ
+                        <index-see>configure</index-see>
+                    </indexterm>
+                </indexterm>
+                
+                <!-- Nest 4 / See 3 -->
+                <indexterm>configure
+                    <indexterm>application stack
+                    <indexterm>gateway
+                    <indexterm>IBM StoredIQ data server    
+                        <index-see>configuration</index-see>
+                    </indexterm> 
+                    </indexterm>
+                    </indexterm>   
+                </indexterm>
+                
+                <!-- Nest 5-->
+                <indexterm>data at rest
+                    <indexterm>encryption</indexterm>
+                </indexterm>
+                
+                <!-- Nest 6 -->
+                <indexterm>data server
+                    <indexterm>installation</indexterm>
+                </indexterm>
+                
+                <!-- Index -->
+                <indexterm>Data Server dashboard</indexterm>
+                
+                <!-- Index -->
+                <indexterm>data sources</indexterm>
+                
+                <!-- Nest 7 -->
+                <indexterm>Data Workbench
+                    <indexterm>about</indexterm>
+                    <indexterm>potential uses of</indexterm>
+                </indexterm>
+                
+                <!-- Nest 8 / See 4 -->
+                <indexterm>deploy
+                    <indexterm>OVA</indexterm>
+                    <indexterm>OVF</indexterm>
+                    <indexterm>virtual appliance
+                           <index-see>deployment</index-see>
+                           <index-see-also>deployment planning</index-see-also>
+                    </indexterm>
+                </indexterm>
+                
+                <!--  See 5 -->
+                <indexterm>deployment
+                    <indexterm>deployment planning
+                        <index-see>deploy</index-see>
+                    </indexterm>
+                </indexterm>
+                
+                <!-- Index -->
+                <indexterm>Desktop Agent</indexterm>
+                
+                <!-- Nest 9 -->
+                <indexterm>disk encryption
+                    <indexterm>application data
+                    <indexterm>AppStack
+                        <index-see>application stack</index-see>
+                            <index-see-also>appstack</index-see-also>
+                    </indexterm>
+                    </indexterm>
+                    <indexterm>Elasticsearch index</indexterm>
+                </indexterm>
+                
+                <!-- See 5 -->
+                <indexterm>Elasticsearch
+                    <indexterm>deploy three-node Elasticsearch cluster</indexterm>
+                    <indexterm>single node cluster</indexterm>
+                     <indexterm>three node cluster
+                         <index-see>Elasticsearch cluster</index-see>  
+                     </indexterm>
+                </indexterm>
+                
+                <!-- Index -->
+                <indexterm>gateway server</indexterm>
+                
+                <!-- Index -->
+                <indexterm>hardware requirements</indexterm>
+                
+                <!-- Index -->
+                <indexterm>IBM StoredIQ</indexterm>
+                
+                <!-- Index -->
+                <indexterm>key management</indexterm>
+                
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody> </refbody>
+</reference>

@@ -3,16 +3,30 @@
 <concept id="ibmDataWB">
     <title>IBM StoredIQ Data Workbench</title>
     <shortdesc></shortdesc>
-    <!-- Insert into appsStored.dita -->
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+
     <conbody>
-        <section id="ibmDaWork">
+        <section>
             <title>IBM StoredIQ Data Workbench</title>
             <p>Big data is a pervasive problem, not a one-time occurrence. It is easy for most
                 companies to realize that big data is problematic, but it is hard to identify what
                 problems they have. Big data is all about the unknown, but the unknown cannot be off
                 limits. IBM StoredIQ Data Workbench can help you learn about your data, make
                 educated decisions with your most valuable asset, and turn your company's most
-                dangerous risk into it's most valuable asset. <image conkeyref="pics/workBen"/>
+                dangerous risk into it's most valuable asset. 
+                <fig><image conkeyref="pics/workBen"/></fig>
             </p>
            
             <p>IBM StoredIQ Data Workbench is a data visualization and management tool that helps
@@ -24,7 +38,7 @@
                 export.</p>
             <p>Here are just some examples of how you can use IBM StoredIQ Data Workbench.</p>
         </section>
-        <example id="ibmDaWorkEx"><ul>
+        <example><ul>
             <li>You need to find all company email that is sent from or received by Eileen Sideways
                 (esideways@thecompany.com). You can use IBM StoredIQ Data Workbench to find all email
                 and then copy that data to a predefined repository. You can also use IBM StoredIQ Data

@@ -2,9 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="aboutPub">
     <title>About this publication</title>
-    <shortdesc>An description of the IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+    <shortdesc>An overview of the IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+        <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p><term>IBM StoredIQ Deployment and Configuration Guide</term> provides information about how to plan, deploy, and configure the IBM StoredIQ product.</p>
-        
     </conbody>
 </concept>

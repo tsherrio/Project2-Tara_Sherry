@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- map/map " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="map:1;3:6" cascade="merge">
+    <title class="- topic/title " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="title:1;4:12">Relationship table map</title>
+    <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:1;5:16">
+        <author class="- topic/author " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="author:1;6:17">Tara Sherry</author>
+        <copyright class="- topic/copyright " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="copyright:1;7:20">
+            <copyryear year="2019" class="- topic/copyryear " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="copyryear:1;8:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="copyrholder:1;9:26">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright>
+    </topicmeta>
+    
+    
+    <reltable toc="no" class="- map/reltable " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="reltable:1;14:15">
+        <relheader class="- map/relheader " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relheader:1;15:20">
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:1;16:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:2;17:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:1;18:31">About this publication</navtitle>
+                </topicmeta> 
+            </relcolspec>
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:2;21:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:3;22:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:2;23:31">Product library</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:3;26:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:4;27:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:3;28:31">Support contact</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:4;31:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:5;32:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:4;33:31">Web contact</navtitle>
+                </topicmeta>
+            </relcolspec>
+        </relheader>
+
+        <relrow class="- map/relrow " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relrow:1;38:17">
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:1;39:22">
+                <topicref href="topics/concepts/aboutPub.dita" class="- map/topicref " collection-type="family" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:1;40:89"/>
+            </relcell>
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:2;42:22">
+                <topicref href="topics/references/prodLibrary.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:2;43:69"/>
+                <topicref href="topics/tasks/contactingSupp.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:3;44:67"/>
+                <topicref href="topics/tasks/contactingIbm.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:4;45:66"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    
+    
+    
+    
+    <reltable toc="no" class="- map/reltable " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="reltable:2;53:15">
+        <relheader class="- map/relheader " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relheader:2;54:20">
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:5;55:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:6;56:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:5;57:31">StoredIQ components</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:6;60:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:7;61:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:6;62:31">Solution components</navtitle>
+                </topicmeta>
+            </relcolspec>
+            <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:7;65:25">
+                <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:8;66:28">
+                    <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:7;67:31">StoredIQ applications</navtitle>
+                </topicmeta>
+            </relcolspec>
+        </relheader>
+        
+        
+        
+        <relrow class="- map/relrow " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relrow:2;74:17">
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:3;75:22">
+                <topicref href="topics/concepts/storedComp.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:5;76:66"/>
+            </relcell>
+            
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:4;79:22">
+                <topicref href="topics/concepts/solComp.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:6;80:63"/>
+                <topicref href="topics/concepts/appsStored.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:7;81:66">
+                </topicref>
+            </relcell>
+            
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:5;85:22">
+                <topicref href="topics/concepts/ibmDatServ.dita" class="- map/topicref " collection-type="family" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:8;86:91"/>    
+                <topicref href="topics/concepts/ibmStoAdmin.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:9;87:67"/>
+                <topicref href="topics/concepts/ibmDataWB.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:10;88:65"/>
+                <topicref href="topics/concepts/ibmStoInsights.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:11;89:70"/>
+                <topicref href="topics/concepts/ibmPolMan.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:12;90:65"/>
+                <topicref href="topics/concepts/ibmDeskData.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:13;91:67"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    
+    
+    
+    <reltable toc="no" class="- map/reltable " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="reltable:3;98:15">
+<relheader class="- map/relheader " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relheader:3;99:12">
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:8;100:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:9;101:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:8;102:23">Deployment planning</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:9;105:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:10;106:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:9;107:23">OVA config requirements</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:10;110:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:11;111:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:10;112:23">Network and Port requirements</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:11;115:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:12;116:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:11;117:23">TCP port ranges</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:12;120:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:13;121:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:12;122:23">Default open ports</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:13;125:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:14;126:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:13;127:23">Environment sizing</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:14;130:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:15;131:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:14;132:23">Stack provisioning pre-reqs</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:15;135:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:16;136:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:15;137:23">License usage metrics</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:16;140:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:17;141:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:16;142:23">Security</navtitle>
+        </topicmeta>
+    </relcolspec>
+    <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:17;145:17">
+        <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:18;146:20">
+            <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:17;147:23">Default user accounts</navtitle>
+        </topicmeta>
+    </relcolspec>
+    
+      
+</relheader>
+        <relrow class="- map/relrow " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relrow:3;153:17">
+            
+           <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:6;155:21">
+               <topicref href="topics/concepts/planDeploy.dita" class="- map/topicref " collection-type="family" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:14;156:90"/>
+           </relcell>
+            
+            <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:7;159:22">
+                <topicref href="topics/concepts/ovaConfigReq.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:15;160:68"/>
+                <topicref href="topics/concepts/networkPortReq.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:16;161:70">
+                    <topicref href="topics/concepts/tcpPortRange.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:17;162:72"/>
+                    <topicref href="topics/references/defaultOpenPorts.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:18;163:78"/>
+                </topicref>
+                <topicref href="topics/concepts/EnvSizeGuide.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:19;165:68"/>
+                <topicref href="topics/concepts/stackProvPrereq.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:20;166:71"/>
+                <topicref href="topics/concepts/licenseUsageMet.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:21;167:71"/>
+                <topicref href="topics/concepts/security.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:22;168:64">
+                    <topicref href="topics/references/defUserAcc.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:23;169:72"/>
+                </topicref>
+            </relcell>
+                   
+        </relrow>
+    </reltable>
+    
+    
+    
+<reltable toc="no" class="- map/reltable " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="reltable:4;178:11">
+    <relheader class="- map/relheader " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relheader:4;179:16">
+        <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:18;180:21">
+            <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:19;181:24">
+                <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:18;182:27">StoredIQ deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:19;185:21">
+            <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:20;186:24">
+                <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:19;187:27">Virtual appliance deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        <relcolspec toc="no" class="- map/relcolspec " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcolspec:20;190:21">
+            <topicmeta class="- map/topicmeta " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicmeta:21;191:24">
+                <navtitle class="- topic/navtitle " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="navtitle:20;192:27">IBM StoredIQ and Microsoft Hyper-V deployment</navtitle>
+            </topicmeta>
+        </relcolspec>
+        
+    
+    </relheader>
+    <relrow class="- map/relrow " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relrow:4;198:13">
+        <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:8;199:18">
+            <topicref href="topics/tasks/deployIbmStoredIq.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:24;200:66"/>
+        </relcell>
+        <relcell toc="no" class="- map/relcell " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="relcell:9;202:18">
+            <topicref href="topics/tasks/deployVirtual.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:25;203:62"/>
+            <topicref href="topics/tasks/deployingMicroHyperV.dita" class="- map/topicref " xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap" xtrc="topicref:26;204:69"/>
+        </relcell>
+    </relrow>
+</reltable>
+      
+
+</map>

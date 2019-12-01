@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="coverPage" path="topics/references/coverPage.html"/>
    <appContext helpID="aboutPub" path="topics/concepts/aboutPub.html"/>
    <appContext helpID="prodLibrary" path="topics/references/prodLibrary.html"/>
    <appContext helpID="support" path="topics/tasks/contactingSupp.html"/>
@@ -27,14 +26,14 @@
    <appContext helpID="depIbmStoIq" path="topics/tasks/deployIbmStoredIq.html"/>
    <appContext helpID="deployVirtual" path="topics/tasks/deployVirtual.html"/>
    <appContext helpID="deployingMicroHyperV" path="topics/tasks/deployingMicroHyperV.html"/>
-   <appContext helpID="gateway" path="topics/Glossary/Terms.html#gateway"/>
-   <appContext helpID="dataserver" path="topics/Glossary/Terms.html#dataserver"/>
    <appContext helpID="appstack" path="topics/Glossary/Terms.html#appstack"/>
-   <appContext helpID="dataclassic" path="topics/Glossary/Terms.html#dataclassic"/>
-   <appContext helpID="datadist" path="topics/Glossary/Terms.html#datadist"/>
    <appContext helpID="autoclass" path="topics/Glossary/Terms.html#autoclass"/>
    <appContext helpID="cartrdg" path="topics/Glossary/Terms.html#cartrdg"/>
    <appContext helpID="connapi" path="topics/Glossary/Terms.html#connapi"/>
+   <appContext helpID="dataserver" path="topics/Glossary/Terms.html#dataserver"/>
+   <appContext helpID="dataclassic" path="topics/Glossary/Terms.html#dataclassic"/>
+   <appContext helpID="datadist" path="topics/Glossary/Terms.html#datadist"/>
+   <appContext helpID="gateway" path="topics/Glossary/Terms.html#gateway"/>
    <appContext helpID="ibminsights" path="topics/Glossary/Terms.html#ibminsights"/>
    <appContext helpID="aboutPub" path="topics/concepts/aboutPub.html"/>
    <appContext helpID="prodLibrary" path="topics/references/prodLibrary.html"/>

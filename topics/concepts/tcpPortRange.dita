@@ -3,6 +3,20 @@
 <concept id="tcpPortRa">
     <title>TCP: port ranges for the firewall</title>
     <shortdesc>To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <ul>
             <li>21000-21004</li>

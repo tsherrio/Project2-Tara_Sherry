@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="planDeploy">
-    <title>Planning for deployment</title>
+    <title>Plan for deployment</title>
     <shortdesc>When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
-        
         <p>In addition to the information in this section, review the requirements detailed in
             the IBM Software Product Compatibility Reports (SPCR) tool at: <xref
                 href="https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=CC1291B0F4AF11E3ACBD4447721DA353"

@@ -1,429 +1,794 @@
 <?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
-   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">IBM StoredIQ</span></title>
-   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
-      <title>Deployment and Configuration Guide</title>
-      <topic href="topics/references/coverPage.html" data-id="coverPage" wh-toc-id="coverPage-d66e12">
-         <title>Cover page</title>
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title"><strong class="ph b">IBM StoredIQ</strong> Deployment and Configuration Guide</span></title>
+   <topicmeta>
+      
+      <author class="- topic/author ">Tara Sherry</author>
+      
+      <copyright class="- topic/copyright ">
+         
+         <copyryear class="- topic/copyryear " year="2019"></copyryear>
+         
+         <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+            or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+         </copyrholder>
+         
+      </copyright>
+      
+   </topicmeta>
+   <topic href="topics/concepts/aboutPub.html" data-id="aboutPub" wh-toc-id="aboutPub-d66e49">
+      <title>About this publication</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">An overview of the IBM StoredIQ Deployment and Configuration Guide</p>
+      </shortdesc>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="aboutPub"></resourceid>
+         <navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?>
+         <shortdesc class="- map/shortdesc ">An overview of the IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+         <author class="- topic/author ">Tara Sherry</author>
+         <copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2019"></copyryear>
+            
+            <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+               or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+            </copyrholder>
+            
+         </copyright>
+      </topicmeta>
+      <topic href="topics/references/prodLibrary.html" data-id="prodLibrary" wh-toc-id="prodLibrary-d66e69">
+         <title>IBM StoredIQ product library</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Cover page and additional document information.</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following documents are available in the IBM® StoredIQ® product library.</p>
          </shortdesc>
          <topicmeta>
-            <resourceid class="- topic/resourceid " oxy-source="topic" appid="coverPage"></resourceid>
-            <navtitle class="- topic/navtitle ">Cover page</navtitle><?ditaot gentext?>
-            <linktext class="- map/linktext ">Cover page</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">Cover page and additional document information.</shortdesc>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="prodLibrary"></resourceid>
+            <navtitle class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">IBM StoredIQ product library</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
          </topicmeta>
       </topic>
-      <topic href="topics/concepts/aboutPub.html" data-id="aboutPub" wh-toc-id="aboutPub-d66e23">
-         <title>About this publication</title>
+      <topic href="topics/tasks/contactingSupp.html" data-id="support" wh-toc-id="support-d66e89">
+         <title>Contacting IBM StoredIQ customer support</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">An description of the IBM StoredIQ Deployment and Configuration Guide</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
+               phone number:
+            </p>
          </shortdesc>
          <topicmeta>
-            <resourceid class="- topic/resourceid " oxy-source="topic" appid="aboutPub"></resourceid>
-            <navtitle class="- topic/navtitle ">About this publication</navtitle><?ditaot gentext?>
-            <linktext class="- map/linktext ">About this publication</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">An description of the IBM StoredIQ Deployment and Configuration Guide</shortdesc>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="support"></resourceid>
+            <navtitle class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Contacting IBM StoredIQ customer support</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
+               phone number:
+            </shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
          </topicmeta>
-         <topic href="topics/references/prodLibrary.html" data-id="prodLibrary" wh-toc-id="prodLibrary-d66e34">
-            <title>IBM StoredIQ product library</title>
-            <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following documents are available in the IBM® StoredIQ® product library.</p>
-            </shortdesc>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="prodLibrary"></resourceid>
-               <navtitle class="- topic/navtitle ">IBM StoredIQ product library</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">IBM StoredIQ product library</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">The following documents are available in the IBM® StoredIQ® product library.</shortdesc>
-            </topicmeta>
-         </topic>
-         <topic href="topics/tasks/contactingSupp.html" data-id="support" wh-toc-id="support-d66e45">
-            <title>Contacting IBM StoredIQ customer support</title>
-            <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
-                  phone number:
-               </p>
-            </shortdesc>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="support"></resourceid>
-               <navtitle class="- topic/navtitle ">Contacting IBM StoredIQ customer support</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Contacting IBM StoredIQ customer support</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">For IBM StoredIQ technical support or to learn about available service options, contact IBM StoredIQ customer support at this
-                  phone number:
-               </shortdesc>
-            </topicmeta>
-            <topic href="topics/tasks/contactingIbm.html" data-id="contactingIbm" wh-toc-id="contactingIbm-d66e64">
-               <title>Contacting IBM</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="contactingIbm"></resourceid>
-                  <navtitle class="- topic/navtitle ">Contacting IBM</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">Contacting IBM</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-         </topic>
-      </topic>
-      <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e74">
-         <title>IBM StoredIQ components</title>
-         <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ components.</p>
-         </shortdesc>
-         <topicmeta>
-            <resourceid class="- topic/resourceid " oxy-source="topic" appid="storedComp"></resourceid>
-            <navtitle class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?>
-            <linktext class="- map/linktext ">IBM StoredIQ components</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">A description of the IBM StoredIQ components.</shortdesc>
-         </topicmeta>
-         <topic href="topics/concepts/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e85">
-            <title>Solution components</title>
-            <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
-                  
-               </p>
-            </shortdesc>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="solComp"></resourceid>
-               <navtitle class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Solution components</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
-                  
-               </shortdesc>
-            </topicmeta>
-         </topic>
-         <topic href="topics/concepts/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e96">
-            <title>Applications of IBM StoredIQ</title>
+         <topic href="topics/tasks/contactingIbm.html" data-id="contactingIbm" wh-toc-id="contactingIbm-d66e126">
+            <title>Contacting IBM</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
             </shortdesc>
             <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="appsStored"></resourceid>
-               <navtitle class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Applications of IBM StoredIQ</linktext><?ditaot genshortdesc?>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="contactingIbm"></resourceid>
+               <navtitle class="- topic/navtitle ">Contacting IBM</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Contacting IBM</linktext><?ditaot genshortdesc?>
                <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
-            <topic href="topics/concepts/ibmDatServ.html" data-id="ibmDatServ" wh-toc-id="ibmDatServ-d66e106">
-               <title>IBM StoredIQ Data Server</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDatServ"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Data Server</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/ibmStoAdmin.html" data-id="ibmStoAdmin" wh-toc-id="ibmStoAdmin-d66e116">
-               <title>IBM StoredIQ Administrator</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoAdmin"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Administrator</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/ibmDataWB.html" data-id="ibmDataWB" wh-toc-id="ibmDataWB-d66e126">
-               <title>IBM StoredIQ Data Workbench</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDataWB"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Data Workbench</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/ibmStoInsights.html" data-id="ibmStoInsights" wh-toc-id="ibmStoInsights-d66e136">
-               <title>IBM StoredIQ Insights</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoInsights"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Insights</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/ibmPolMan.html" data-id="ibmPolMan" wh-toc-id="ibmPolMan-d66e146">
-               <title>IBM StoredIQ Policy Manager</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmPolMan"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Policy Manager</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/ibmDeskData.html" data-id="ibmDeskData" wh-toc-id="ibmDeskData-d66e156">
-               <title>IBM StoredIQ Desktop Data Collector</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDeskData"></resourceid>
-                  <navtitle class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">IBM StoredIQ Desktop Data Collector</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc "></shortdesc>
-               </topicmeta>
-            </topic>
          </topic>
       </topic>
-      <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e166">
-         <title>Planning for deployment</title>
+   </topic>
+   <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e147">
+      <title>IBM StoredIQ components</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">A description of the IBM StoredIQ components.</p>
+      </shortdesc>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="storedComp"></resourceid>
+         <navtitle class="- topic/navtitle ">IBM StoredIQ components</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">IBM StoredIQ components</linktext><?ditaot genshortdesc?>
+         <shortdesc class="- map/shortdesc ">A description of the IBM StoredIQ components.</shortdesc>
+         <author class="- topic/author ">Tara Sherry</author>
+         <copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2019"></copyryear>
+            
+            <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+               or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+            </copyrholder>
+            
+         </copyright>
+      </topicmeta>
+      <topic href="topics/concepts/solComp.html" data-id="solComp" wh-toc-id="solComp-d66e167">
+         <title>Solution components</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
+               
+            </p>
          </shortdesc>
          <topicmeta>
-            <resourceid class="- topic/resourceid " oxy-source="topic" appid="planDeploy"></resourceid>
-            <navtitle class="- topic/navtitle ">Planning for deployment</navtitle><?ditaot gentext?>
-            <linktext class="- map/linktext ">Planning for deployment</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="solComp"></resourceid>
+            <navtitle class="- topic/navtitle ">Solution components</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Solution components</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).    
+               
+            </shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
          </topicmeta>
-         <topic href="topics/concepts/ovaConfigReq.html" data-id="ovaConfigReq" wh-toc-id="ovaConfigReq-d66e177">
-            <title>Open Virtual Appliance (OVA) configuration requirements</title>
+      </topic>
+      <topic href="topics/concepts/appsStored.html" data-id="appsStored" wh-toc-id="appsStored-d66e187">
+         <title>Applications of IBM StoredIQ</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ provides interface applications that help fulfill its solution goals.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="appsStored"></resourceid>
+            <navtitle class="- topic/navtitle ">Applications of IBM StoredIQ</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Applications of IBM StoredIQ</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
+         </topicmeta>
+         <topic href="topics/concepts/ibmDatServ.html" data-id="ibmDatServ" wh-toc-id="ibmDatServ-d66e207">
+            <title>IBM StoredIQ Data Server</title>
             <shortdesc>
                <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
             </shortdesc>
             <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ovaConfigReq"></resourceid>
-               <navtitle class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Open Virtual Appliance (OVA) configuration requirements</linktext><?ditaot genshortdesc?>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDatServ"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Data Server</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Data Server</linktext><?ditaot genshortdesc?>
                <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
-            <topic href="topics/concepts/networkPortReq.html" data-id="networkPortReq" wh-toc-id="networkPortReq-d66e187">
-               <title>Network and port requirements</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For proper communication, the IBM StoredIQ components must be able to connect to each other.</p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="networkPortReq"></resourceid>
-                  <navtitle class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">Network and port requirements</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc>
-               </topicmeta>
-               <topic href="topics/concepts/tcpPortRange.html" data-id="tcpPortRa" wh-toc-id="tcpPortRa-d66e198">
-                  <title>TCP: port ranges for the firewall</title>
-                  <shortdesc>
-                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</p>
-                  </shortdesc>
-                  <topicmeta>
-                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="tcpPortRa"></resourceid>
-                     <navtitle class="- topic/navtitle ">TCP: port ranges for the firewall</navtitle><?ditaot gentext?>
-                     <linktext class="- map/linktext ">TCP: port ranges for the firewall</linktext><?ditaot genshortdesc?>
-                     <shortdesc class="- map/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc>
-                  </topicmeta>
-               </topic>
-               <topic href="topics/references/defaultOpenPorts.html" data-id="defOpenPort" wh-toc-id="defOpenPort-d66e209">
-                  <title>Default open ports</title>
-                  <shortdesc>
-                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following ports are open by default on the IBM StoredIQ.</p>
-                  </shortdesc>
-                  <topicmeta>
-                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="defOpenPort"></resourceid>
-                     <navtitle class="- topic/navtitle ">Default open ports</navtitle><?ditaot gentext?>
-                     <linktext class="- map/linktext ">Default open ports</linktext><?ditaot genshortdesc?>
-                     <shortdesc class="- map/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc>
-                  </topicmeta>
-               </topic>
-            </topic>
-            <topic href="topics/concepts/EnvSizeGuide.html" data-id="EnvSizeGuide" wh-toc-id="EnvSizeGuide-d66e220">
-               <title>Environment sizing guidelines</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
-                     and use case scenarios that drive application use and         action execution.
-                  </p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="EnvSizeGuide"></resourceid>
-                  <navtitle class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">Environment sizing guidelines</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc ">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
-                     and use case scenarios that drive application use and         action execution.
-                  </shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/stackProvPrereq.html" data-id="stackProPre" wh-toc-id="stackProPre-d66e231">
-               <title>Stack-provisioning prerequisites</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Before a deployment, verify that you meet these prerequisites.</p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="stackProPre"></resourceid>
-                  <navtitle class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">Stack-provisioning prerequisites</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/licenseUsageMet.html" data-id="licUsageMet" wh-toc-id="licUsageMet-d66e242">
-               <title>License Metric Tool</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="licUsageMet"></resourceid>
-                  <navtitle class="- topic/navtitle ">License Metric Tool</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">License Metric Tool</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</shortdesc>
-               </topicmeta>
-            </topic>
-            <topic href="topics/concepts/security.html" data-id="security" wh-toc-id="security-d66e253">
-               <title>Security</title>
-               <shortdesc>
-                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
-                     IBM StoredIQ into sensitive environments.
-                  </p>
-               </shortdesc>
-               <topicmeta>
-                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="security"></resourceid>
-                  <navtitle class="- topic/navtitle ">Security</navtitle><?ditaot gentext?>
-                  <linktext class="- map/linktext ">Security</linktext><?ditaot genshortdesc?>
-                  <shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
-                     IBM StoredIQ into sensitive environments.
-                  </shortdesc>
-               </topicmeta>
-               <topic href="topics/references/defUserAcc.html" data-id="defUserAcc" wh-toc-id="defUserAcc-d66e264">
-                  <title>Default user accounts</title>
-                  <shortdesc>
-                     <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ comes with a set of default user accounts.</p>
-                  </shortdesc>
-                  <topicmeta>
-                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="defUserAcc"></resourceid>
-                     <navtitle class="- topic/navtitle ">Default user accounts</navtitle><?ditaot gentext?>
-                     <linktext class="- map/linktext ">Default user accounts</linktext><?ditaot genshortdesc?>
-                     <shortdesc class="- map/shortdesc ">IBM StoredIQ comes with a set of default user accounts.</shortdesc>
-                  </topicmeta>
-               </topic>
-            </topic>
+         </topic>
+         <topic href="topics/concepts/ibmStoAdmin.html" data-id="ibmStoAdmin" wh-toc-id="ibmStoAdmin-d66e226">
+            <title>IBM StoredIQ Administrator</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoAdmin"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Administrator</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Administrator</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/ibmDataWB.html" data-id="ibmDataWB" wh-toc-id="ibmDataWB-d66e245">
+            <title>IBM StoredIQ Data Workbench</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDataWB"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Data Workbench</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Data Workbench</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/ibmStoInsights.html" data-id="ibmStoInsights" wh-toc-id="ibmStoInsights-d66e264">
+            <title>IBM StoredIQ Insights</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmStoInsights"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Insights</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/ibmPolMan.html" data-id="ibmPolMan" wh-toc-id="ibmPolMan-d66e283">
+            <title>IBM StoredIQ Policy Manager</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmPolMan"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Policy Manager</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Policy Manager</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/ibmDeskData.html" data-id="ibmDeskData" wh-toc-id="ibmDeskData-d66e302">
+            <title>IBM StoredIQ Desktop Data Collector</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibmDeskData"></resourceid>
+               <navtitle class="- topic/navtitle ">IBM StoredIQ Desktop Data Collector</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">IBM StoredIQ Desktop Data Collector</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc "></shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
          </topic>
       </topic>
-      <topic href="topics/tasks/deployIbmStoredIq.html" data-id="depIbmStoIq" wh-toc-id="depIbmStoIq-d66e275">
-         <title>Deploying IBM StoredIQ</title>
+   </topic>
+   <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e324">
+      <title>Plan for deployment</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
+      </shortdesc>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="planDeploy"></resourceid>
+         <navtitle class="- topic/navtitle ">Plan for deployment</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Plan for deployment</linktext><?ditaot genshortdesc?>
+         <shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
+         <author class="- topic/author ">Tara Sherry</author>
+         <copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2019"></copyryear>
+            
+            <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+               or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+            </copyrholder>
+            
+         </copyright>
+      </topicmeta>
+      <topic href="topics/concepts/ovaConfigReq.html" data-id="ovaConfigReq" wh-toc-id="ovaConfigReq-d66e344">
+         <title>Open Virtual Appliance (OVA) configuration requirements</title>
          <shortdesc>
-            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.     </p>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
          </shortdesc>
          <topicmeta>
-            <resourceid class="- topic/resourceid " oxy-source="topic" appid="depIbmStoIq"></resourceid>
-            <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?>
-            <linktext class="- map/linktext ">Deploying IBM StoredIQ</linktext><?ditaot genshortdesc?>
-            <shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.     </shortdesc>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="ovaConfigReq"></resourceid>
+            <navtitle class="- topic/navtitle ">Open Virtual Appliance (OVA) configuration requirements</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Open Virtual Appliance (OVA) configuration requirements</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc "></shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
          </topicmeta>
-         <topic href="topics/tasks/deployVirtual.html" data-id="deployVirtual" wh-toc-id="deployVirtual-d66e286">
-            <title>Deploying the virtual appliances</title>
+         <topic href="topics/concepts/networkPortReq.html" data-id="networkPortReq" wh-toc-id="networkPortReq-d66e363">
+            <title>Network and port requirements</title>
             <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
-                  and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
-                  deployed first.
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">For proper communication, the IBM StoredIQ components must be able to connect to each other.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="networkPortReq"></resourceid>
+               <navtitle class="- topic/navtitle ">Network and port requirements</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Network and port requirements</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">For proper communication, the IBM StoredIQ components must be able to connect to each other.</shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+            <topic href="topics/concepts/tcpPortRange.html" data-id="tcpPortRa" wh-toc-id="tcpPortRa-d66e383">
+               <title>TCP: port ranges for the firewall</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="tcpPortRa"></resourceid>
+                  <navtitle class="- topic/navtitle ">TCP: port ranges for the firewall</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">TCP: port ranges for the firewall</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">To ensure the network access for desktop volumes, the following port ranges must be open through a firewall.</shortdesc>
+                  <author class="- topic/author ">Tara Sherry</author>
+                  <copyright class="- topic/copyright ">
+                     
+                     <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                     
+                     <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                        or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                     </copyrholder>
+                     
+                  </copyright>
+               </topicmeta>
+            </topic>
+            <topic href="topics/references/defaultOpenPorts.html" data-id="defOpenPort" wh-toc-id="defOpenPort-d66e403">
+               <title>Default open ports</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The following ports are open by default on the IBM StoredIQ.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="defOpenPort"></resourceid>
+                  <navtitle class="- topic/navtitle ">Default open ports</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Default open ports</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">The following ports are open by default on the IBM StoredIQ.</shortdesc>
+                  <author class="- topic/author ">Tara Sherry</author>
+                  <copyright class="- topic/copyright ">
+                     
+                     <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                     
+                     <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                        or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                     </copyrholder>
+                     
+                  </copyright>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="topics/concepts/EnvSizeGuide.html" data-id="EnvSizeGuide" wh-toc-id="EnvSizeGuide-d66e423">
+            <title>Environment sizing guidelines</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
+                  and use case scenarios that drive application use and         action execution.
                </p>
             </shortdesc>
             <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployVirtual"></resourceid>
-               <navtitle class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Deploying the virtual appliances</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
-                  and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
-                  deployed first.
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="EnvSizeGuide"></resourceid>
+               <navtitle class="- topic/navtitle ">Environment sizing guidelines</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Environment sizing guidelines</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">To size an environment precisely, you must understand the factors such as harvest         frequency, complexity of the source,
+                  and use case scenarios that drive application use and         action execution.
                </shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/tasks/deployingMicroHyperV.html" data-id="deployingMicroHyperV" wh-toc-id="deployingMicroHyperV-d66e297">
-            <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+         <topic href="topics/concepts/stackProvPrereq.html" data-id="stackProPre" wh-toc-id="stackProPre-d66e443">
+            <title>Stack-provisioning prerequisites</title>
             <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
-                  on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Before a deployment, verify that you meet these prerequisites.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="stackProPre"></resourceid>
+               <navtitle class="- topic/navtitle ">Stack-provisioning prerequisites</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Stack-provisioning prerequisites</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Before a deployment, verify that you meet these prerequisites.</shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/licenseUsageMet.html" data-id="licUsageMet" wh-toc-id="licUsageMet-d66e463">
+            <title>License usage metrics</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="licUsageMet"></resourceid>
+               <navtitle class="- topic/navtitle ">License usage metrics</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">License usage metrics</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/concepts/security.html" data-id="security" wh-toc-id="security-d66e483">
+            <title>Security</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
+                  IBM StoredIQ into sensitive environments.
                </p>
             </shortdesc>
             <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployingMicroHyperV"></resourceid>
-               <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Deploying IBM StoredIQ on Microsoft Hyper-V</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
-                  on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="security"></resourceid>
+               <navtitle class="- topic/navtitle ">Security</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Security</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Plan and implement specific security measures to protect the application and the data it manages,especially when you deploy
+                  IBM StoredIQ into sensitive environments.
                </shortdesc>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
+            <topic href="topics/references/defUserAcc.html" data-id="defUserAcc" wh-toc-id="defUserAcc-d66e503">
+               <title>Default user accounts</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ comes with a set of default user accounts.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="defUserAcc"></resourceid>
+                  <navtitle class="- topic/navtitle ">Default user accounts</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Default user accounts</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">IBM StoredIQ comes with a set of default user accounts.</shortdesc>
+                  <author class="- topic/author ">Tara Sherry</author>
+                  <copyright class="- topic/copyright ">
+                     
+                     <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                     
+                     <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                        or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                     </copyrholder>
+                     
+                  </copyright>
+               </topicmeta>
+            </topic>
          </topic>
       </topic>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e326">
-         <title>glossary</title>
-         <topic href="topics/Glossary/Terms.html#gateway" data-id="gateway" wh-toc-id="gateway-d66e327">
-            <title>Gateway</title>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="gateway"></resourceid>
-               <navtitle class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Gateway</linktext>
-            </topicmeta>
-         </topic>
-         <topic href="topics/Glossary/Terms_2.html#dataserver" data-id="dataserver" wh-toc-id="dataserver-d66e335">
-            <title>Data servers</title>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataserver"></resourceid>
-               <navtitle class="- topic/navtitle ">Data servers</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Data servers</linktext>
-            </topicmeta>
-         </topic>
-         <topic href="topics/Glossary/Terms_3.html#appstack" data-id="appstack" wh-toc-id="appstack-d66e343">
+   </topic>
+   <topic href="topics/tasks/deployIbmStoredIq.html" data-id="depIbmStoIq" wh-toc-id="depIbmStoIq-d66e525">
+      <title>Deploying IBM StoredIQ</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</p>
+      </shortdesc>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="depIbmStoIq"></resourceid>
+         <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Deploying IBM StoredIQ</linktext><?ditaot genshortdesc?>
+         <shortdesc class="- map/shortdesc ">IBM StoredIQ is a virtual appliance that you deploy and configure in a VMWare virtual host environment.</shortdesc>
+         <author class="- topic/author ">Tara Sherry</author>
+         <copyright class="- topic/copyright ">
+            
+            <copyryear class="- topic/copyryear " year="2019"></copyryear>
+            
+            <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+               or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+            </copyrholder>
+            
+         </copyright>
+      </topicmeta>
+      <topic href="topics/tasks/deployVirtual.html" data-id="deployVirtual" wh-toc-id="deployVirtual-d66e545">
+         <title>Deploying the virtual appliances</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
+               and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
+               deployed first.
+            </p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployVirtual"></resourceid>
+            <navtitle class="- topic/navtitle ">Deploying the virtual appliances</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Deploying the virtual appliances</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Use VMware vSphere Client to deploy the virtual appliances to an ESX server. Deploy OVAs for the gateway, the data server,
+               and the application stack, preferably in this order. If an Elasticsearch cluster is also being deployed, those OVAs must be
+               deployed first.
+            </shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
+         </topicmeta>
+      </topic>
+      <topic href="topics/tasks/deployingMicroHyperV.html" data-id="deployingMicroHyperV" wh-toc-id="deployingMicroHyperV-d66e565">
+         <title>Deploying IBM StoredIQ on Microsoft Hyper-V</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
+               on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+            </p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="deployingMicroHyperV"></resourceid>
+            <navtitle class="- topic/navtitle ">Deploying IBM StoredIQ on Microsoft Hyper-V</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Deploying IBM StoredIQ on Microsoft Hyper-V</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">As an alternative to installing on an ESX server, the IBM StoredIQ gateway, data server, and application stack can be installed
+               on Microsoft Hyper-V. This option is not supported for the Elasticsearch virtual appliance.
+            </shortdesc>
+            <author class="- topic/author ">Tara Sherry</author>
+            <copyright class="- topic/copyright ">
+               
+               <copyryear class="- topic/copyryear " year="2019"></copyryear>
+               
+               <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                  or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+               </copyrholder>
+               
+            </copyright>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e736">
+      <title>Glossary</title>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e737">
+         <title>A</title>
+         <topic href="topics/Glossary/Terms.html#appstack" data-id="appstack" wh-toc-id="appstack-d66e738">
             <title>Application stack</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="appstack"></resourceid>
                <navtitle class="- topic/navtitle ">Application stack</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Application stack</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_4.html#dataclassic" data-id="dataclassic" wh-toc-id="dataclassic-d66e351">
-            <title>DataServer - Classic</title>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataclassic"></resourceid>
-               <navtitle class="- topic/navtitle ">DataServer - Classic</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">DataServer - Classic</linktext>
-            </topicmeta>
-         </topic>
-         <topic href="topics/Glossary/Terms_5.html#datadist" data-id="datadist" wh-toc-id="datadist-d66e359">
-            <title>DataServer - Distributed</title>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="datadist"></resourceid>
-               <navtitle class="- topic/navtitle ">DataServer - Distributed</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">DataServer - Distributed</linktext>
-            </topicmeta>
-         </topic>
-         <topic href="topics/Glossary/Terms_6.html#autoclass" data-id="autoclass" wh-toc-id="autoclass-d66e367">
+         <topic href="topics/Glossary/Terms_2.html#autoclass" data-id="autoclass" wh-toc-id="autoclass-d66e755">
             <title>Auto-classification</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="autoclass"></resourceid>
                <navtitle class="- topic/navtitle ">Auto-classification</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Auto-classification</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_7.html#cartrdg" data-id="cartrdg" wh-toc-id="cartrdg-d66e375">
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e772">
+         <title>C</title>
+         <topic href="topics/Glossary/Terms_3.html#cartrdg" data-id="cartrdg" wh-toc-id="cartrdg-d66e773">
             <title>Cartridges</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="cartrdg"></resourceid>
                <navtitle class="- topic/navtitle ">Cartridges</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Cartridges</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_8.html#connapi" data-id="connapi" wh-toc-id="connapi-d66e383">
+         <topic href="topics/Glossary/Terms_4.html#connapi" data-id="connapi" wh-toc-id="connapi-d66e790">
             <title>Connector API SDK</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="connapi"></resourceid>
                <navtitle class="- topic/navtitle ">Connector API SDK</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">Connector API SDK</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_9.html#ibminsights" data-id="ibminsights" wh-toc-id="ibminsights-d66e391">
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e807">
+         <title>D</title>
+         <topic href="topics/Glossary/Terms_5.html#dataserver" data-id="dataserver" wh-toc-id="dataserver-d66e808">
+            <title>Data servers</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataserver"></resourceid>
+               <navtitle class="- topic/navtitle ">Data servers</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Data servers</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_6.html#dataclassic" data-id="dataclassic" wh-toc-id="dataclassic-d66e825">
+            <title>DataServer - Classic</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataclassic"></resourceid>
+               <navtitle class="- topic/navtitle ">DataServer - Classic</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">DataServer - Classic</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+         <topic href="topics/Glossary/Terms_7.html#datadist" data-id="datadist" wh-toc-id="datadist-d66e842">
+            <title>DataServer - Distributed</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="datadist"></resourceid>
+               <navtitle class="- topic/navtitle ">DataServer - Distributed</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">DataServer - Distributed</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e859">
+         <title>G</title>
+         <topic href="topics/Glossary/Terms_8.html#gateway" data-id="gateway" wh-toc-id="gateway-d66e860">
+            <title>Gateway</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="gateway"></resourceid>
+               <navtitle class="- topic/navtitle ">Gateway</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Gateway</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
+            </topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e877">
+         <title>I</title>
+         <topic href="topics/Glossary/Terms_9.html#ibminsights" data-id="ibminsights" wh-toc-id="ibminsights-d66e878">
             <title>IBM StoredIQ Insights</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibminsights"></resourceid>
                <navtitle class="- topic/navtitle ">IBM StoredIQ Insights</navtitle><?ditaot gentext?>
                <linktext class="- map/linktext ">IBM StoredIQ Insights</linktext>
+               <author class="- topic/author ">Tara Sherry</author>
+               <copyright class="- topic/copyright ">
+                  
+                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
+                  
+                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
+                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+                  </copyrholder>
+                  
+               </copyright>
             </topicmeta>
          </topic>
       </topic>

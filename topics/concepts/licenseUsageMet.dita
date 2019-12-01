@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="licUsageMet">
-    <title>License Metric Tool</title>
+    <title>License usage metrics</title>
     <shortdesc>Using the IBM License Metric Tool, you can generate license consumption reports that count IBM StoredIQ license usage.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p>IBM StoredIQ is licensed by Resource Value Unit (RVU). RVU calculation is based on terabytes IBM StoredIQ.</p>
         <p>On the IBM StoredIQ application stack, a license program writes usage information to an IBM Software Licence Metric Tag (SLMT) file. This file has the extension .slmtag and can be read periodically by the IBMLicense Metric Tool (ILMT) after it has been configured to scan for these files. You can generate reports that summarize usage.</p>
@@ -37,7 +51,7 @@
                 Conversion Table specified in the license information (li_<i>languagecodefile</i>)
                 that comes with IBM StoredIQ. On the application stack, you can find the license
                 information in the License directory.</p>
-            <p>For more information about using IBM License Metric Tool, see the IBM License Metric Tool documentation.</p>
+            <p>For more information about using IBM License Metric Tool, see the <xref href="https://www.ibm.com/support/knowledgecenter/SS8JFY_9.2.0/com.ibm.lmt.doc/welcome/LMT_welcome.html" scope="external" format="html">IBM License Metric Tool documentation.</xref></p>
         </section>
     </conbody>
 </concept>

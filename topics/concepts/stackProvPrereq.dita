@@ -3,6 +3,21 @@
 <concept id="stackProPre">
     <title>Stack-provisioning prerequisites</title>
     <shortdesc>Before a deployment, verify that you meet these prerequisites.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <ul>
             <li>At least one physical server with sufficient processor, RAM, and hard disk configuration for the planned management projec</li>

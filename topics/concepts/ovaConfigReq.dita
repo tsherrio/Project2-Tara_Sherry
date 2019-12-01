@@ -4,6 +4,21 @@
     <!-- Insert into planningDeply.dita -->
     <title>Open Virtual Appliance (OVA) configuration requirements</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <keywords conkeyref="indexKey/in1"></keywords>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <section id="ovaConReq">
             <title>Open Virtual Appliance (OVA) configuration requirements</title>
@@ -55,9 +70,9 @@
                                 operating code. Do not change its size.</p>
                                 <hazardstatement>
                                     <messagepanel>
-                                        <typeofhazard id="haz1" importance="high">Attention:</typeofhazard>
+                                        <typeofhazard id="haz1" importance="high"></typeofhazard>
                                         <howtoavoid>If you delete the primary disk, you delete the
-                                            operating system, and the IBMStoredIQ software; the
+                                            operating system, and the IBM StoredIQ software; the
                                             virtual machine might need to be
                                             scrapped.</howtoavoid>
                                     </messagepanel>

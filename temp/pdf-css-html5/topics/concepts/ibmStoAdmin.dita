@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Tarat\Desktop\Workspace\publications\Project2_Tara\temp\pdf-css-html5\topics\concepts?><?workdir-uri file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/temp/pdf-css-html5/topics/concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="ibmStoAdmin" xtrc="concept:1;3:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ Administrator</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">Tara Sherry</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap" year="2019"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/Project2_Tara.ditamap">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+            <created class="- topic/created " date="15/11/2019" xtrc="created:1;8:41" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"/>
+        </critdates>
+        <permissions class="- topic/permissions " view="all" xtrc="permissions:1;10:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"/>
+        
+        <metadata class="- topic/metadata " xtrc="metadata:1;12:19" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+            <keywords class="- topic/keywords " xtrc="keywords:1;8:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">
+             <keyword class="- topic/keyword " xtrc="keyword:1;9:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">   
+             </keyword>
+                
+                  
+                <indexterm class="- topic/indexterm " xtrc="indexterm:1;13:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">action</indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:2;16:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application data
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:3;17:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">disk encryption</indexterm>
+                </indexterm>
+                
+                
+                <indexterm class="- topic/indexterm " xtrc="indexterm:4;21:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">application stack
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:5;22:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">upgrade</indexterm>
+                    <index-see class="+ topic/index-base indexing-d/index-see " xtrc="index-see:1;23:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">appstack</index-see>
+                    <index-see-also class="+ topic/index-base indexing-d/index-see-also " xtrc="index-see-also:1;24:37" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/indexTerms.dita">AppStack</index-see-also>
+                </indexterm>
+                
+                
+                
+            </keywords>
+            <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;14:23" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                <prodname class="- topic/prodname " xtrc="prodname:1;15:27" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand class="- topic/brand " xtrc="brand:1;16:24" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM</brand>
+                <component class="- topic/component " xtrc="component:1;17:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;22:14" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+        <section class="- topic/section " id="storedIqAd" xtrc="section:1;23:34" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+            <title class="- topic/title " xtrc="title:2;24:20" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ Administrator</title>
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ Administrator helps you manage global assets common to the distributed
+                infrastructure behind IBM StoredIQ applications.</p>
+            <image class="- topic/image " href="../../common/../resources/images/png/admin.PNG" placement="inline" xtrc="image:2;25:82" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/common/images.dita"/>
+            <p class="- topic/p " xtrc="p:2;28:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ Administrator provides at-a-glance understanding of the different issues
+                that can crop up in the IBM StoredIQ environment. These views are unique to the IBM
+                StoredIQ Administrator application as they provide an overview of how the system is
+                running. They allow access to various pieces of information that are being shared
+                across applications or allow for the management of resources in a centralized
+                manner.</p>
+            <p class="- topic/p " xtrc="p:3;34:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">The administrator is the person responsible for managing the IBM StoredIQ. This
+                individual has strong understanding of data sources, indexes, data servers, jobs,
+                infosets, and actions. This list provides an overview as to how IBM StoredIQ
+                Administrator works: </p>
+        </section>
+        <section class="- topic/section " xtrc="section:2;39:18" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+            
+            <p class="- topic/p " xtrc="p:4;41:16" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                <ul class="- topic/ul " xtrc="ul:1;42:21" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                    <li class="- topic/li " xtrc="li:1;43:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><p class="- topic/p " xtrc="p:5;43:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;43:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Viewing data servers and volumes</b>: Using IBM StoredIQ Administrator,
+                        the Administrator can identify what data servers are deployed, their
+                        location, what data is being managed, and the status of each data server in
+                        the system. Volume management is a central component of IBM StoredIQ. IBM
+                        StoredIQ Administrator also allows the Administrator to see what volumes are
+                        currently under management, which data server is responsible for that
+                        volume, the state of the volume after indexing, and the amount and size of
+                        information that is contained by each volume. Administrators can also add
+                        volumes to and delete volumes from data servers through this interface.</p>
+                        <p class="- topic/p " xtrc="p:6;52:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">IBM StoredIQ is configured for integration with Information
+                            Governance Catalog, the Administrator can also manage which volumes are
+                            published to the governance catalog.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:2;56:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:7;57:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;57:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Scheduling harvests</b>: Harvesting, which can also be referred to as indexing,
+                            is the process or task by which IBM StoredIQ examines and classifies data in your 
+                            network. Using IBM StoredIQ Administrator, harvests can be scheduled, edited, and deleted.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:3;61:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:8;62:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;62:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Creating system infosets</b>: System infosets that use only specific
+                            indexed volumes can be created and managed within IBM StoredIQ
+                            Administrator. Although infosets are a core component of IBM StoredIQ
+                            Data Workbench, system infosets are created as a shortcut for users in
+                            IBM StoredIQ Administrator.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:4;68:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:9;69:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                            <b class="+ topic/ph hi-d/b " xtrc="b:4;70:32" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Managing users</b>: The user management area allows administrators to create users and manage 
+                            users' access to the various IBM StoredIQ applications. 
+                        </p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:5;74:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:10;75:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:5;75:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Configuring and managing actions</b>: An action is any process that is taken upon the data that is represented by the indexes. Actions are run by data servers on indexed data objects. Any errors or warnings that are generated as a result of an action are recorded as exceptions in IBM StoredIQ DataWorkbench.
+                            <note class="- topic/note " importance="normal" xtrc="note:1;76:55" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Actions can be created within IBM StoredIQ Administrator and then made available to other IBMStoredIQ applications such as IBM StoredIQ Data Workbench.</note></p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:6;78:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:11;79:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:6;79:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Managing target sets</b>: Provides an interface that allows the user to set the wanted targets for specific actions that require a destination volume for their actions.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:7;81:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:12;82:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:7;82:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Reports</b>: IBM StoredIQ Administrator provides a number of built-in reports, such as summaries of data objects in the system, storage use, and the number of identical documents in the system. You can create custom reports, including Query Analysis Reports for e-discovery purposes, and automatically email report notifications to administrators and other interested parties.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:8;84:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:13;85:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:8;85:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Auto-classification</b>: Automated document categorization, what IBM StoredIQ refers to as auto-classification models, integrates the IBM® Content Classification's classification model into the IBMStoredIQ infoset-generation process. Data Experts can use IBM Content Classification to train a classification model, which is then registered with IBM StoredIQ Administrator. The registered classification model can be applied to an existing infoset in IBM StoredIQ Data Workbench to generate new metadata for the objects in the infoset. Metadata can be used in rule-based filters to create new infosets.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:9;87:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:14;88:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:9;88:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Cartridges</b>: Cartridges are compressed files that contain analysis logic. When you add a cartridge to IBM StoredIQ AppStack, it can detect new data in documents during indexing and make these new insights searchable. For example, a sensitive pattern cartridge can enable IBM StoredIQ to detect passport numbers, phone numbers, and other IDs.</p>
+                        <p class="- topic/p " xtrc="p:15;89:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">To apply the analysis logic contained in the cartridge, you must run
+                            a Step-up Analytics action that uses the cartridge on an infoset. IBM
+                            StoredIQ examines all documents in the infoset, applies the analytics,
+                            and then stores the analysis results in the IBM StoredIQ index.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:10;94:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><p class="- topic/p " xtrc="p:16;94:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:10;94:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Managing concepts</b>: Provides the ability to relate business concepts to indexed data.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:11;96:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:17;97:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:11;97:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Managing Mule scripts</b>: Helps you to create Mule scripts and upload script packages. These Mulescripts are used by IBM StoredIQ Policy Manager to create policies using the automation workflow.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:12;99:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:18;100:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:12;100:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">DataServer - Classic</b>: Data servers can be categorized in two types: DataServer - Classic and DataServer - Distributed.  DataServer - Classic refers to the regular data servers. It uses either the current PostgreSQL or Lucene index as an index.</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:13;102:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:19;103:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:13;103:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">DataServer - Distributed</b>: The distributed data server uses an Elasticsearch cluster instead of an embedded Postgres database. It increases the scalability and flexibility of the IBM StoredIQ deployment in a way that it can manage much larger amounts of data. Without adding more dataservers, data that is managed by the IBM StoredIQ deployment can be increased by adding new nodes to the Elasticsearch cluster. Search queries perform better on DataServer - Distributed</p>
+                    </li>
+                    <li class="- topic/li " xtrc="li:14;105:25" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">
+                        <p class="- topic/p " xtrc="p:20;106:28" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita"><b class="+ topic/ph hi-d/b " xtrc="b:14;106:31" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/topics/concepts/ibmStoAdmin.dita">Connector API SDK</b>: A connector is a software component of IBM StoredIQ that is used to connect to a data source such as a network file system and access its data. Using IBM StoredIQ Connector API SDK, developers of other companies can develop connectors to new data sources outside the IBM StoredIQ development environment. These connectors can be integrated with a live IBM StoredIQ application to index, search, manage, and analyze data on the data source.</p>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:9;87:67" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><link class="- topic/link " format="dita" href="../../topics/concepts/storedComp.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:5;76:66" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>IBM StoredIQ components</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A description of the IBM StoredIQ components.</desc></link><link class="- topic/link " format="dita" href="../../topics/concepts/solComp.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:6;80:63" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Solution components</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">IBM StoredIQ provides three solution components: the gateway, data servers, and         application stack (AppStack).     </desc></link><link class="- topic/link " format="dita" href="../../topics/concepts/appsStored.dita" mapclass="- map/topicref " role="friend" scope="local" type="concept" xtrc="topicref:7;81:66" xtrf="file:/C:/Users/Tarat/Desktop/Workspace/publications/Project2_Tara/relMap.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Applications of IBM StoredIQ</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">IBM StoredIQ provides interface applications that help fulfill its solution goals.</desc></link></linkpool></related-links></concept>

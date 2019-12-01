@@ -3,71 +3,43 @@
 <concept id="defOpenPort">
     <title>Default open ports</title>
     <shortdesc>The following ports are open by default on the IBM StoredIQ.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="15/11/2019"/>
+        </critdates>
+        <permissions view="all"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>  
+    </prolog>
+    
     <conbody>
         <p><b>SSH port 22</b></p>
         <p>By default, port 22 is open on all IBM StoredIQ hosts. The port is used for Secure Shell (SSH) communication and allows remote administration access to the VM. In general, traffic is encrypted using password authentication. To add a layer of security, you can establish key-based authentication for passwordless SSH logins to any of the IBM StoredIQ nodes in your environment as described in <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="pdf">Configuring SSH key-based authentication” on page 45.</xref>“</p>
-        
-        <!-- AppStack table -->
-        <section id="defOpAppTable">
-            <title>Default open ports on the AppStack</title>
-            <simpletable keycol="1">
-                <sthead>
-                    <stentry>Port number</stentry>
-                    <stentry>Protocol</stentry>
-                </sthead>
-                <strow>
-                    <stentry>22</stentry>
-                    <stentry>tcp</stentry>
-                </strow>
-                <strow>
-                    <stentry>80</stentry>
-                    <stentry>tcp</stentry>
-                </strow>
-                <strow>
-                    <stentry>443</stentry>
-                    <stentry>tcp</stentry>
-                </strow>
-            </simpletable>
-            
-            <!-- Default open ports table -->
-            <table id="defOpPoTable">
-                <title>Default open ports on the IBM StoredIQ data server</title>
-                <tgroup cols="3">
-                    <colspec colname="col1" colsep="1" rowsep="1"/>
-                    <colspec colname="col2" colsep="1" rowsep="1"/>
-                    <colspec colname="col3" colsep="1" rowsep="1"/>
-                    <thead>
-                        <row>
-                            <entry colname="col1" valign="top">Port number</entry>
-                            <entry colname="col2" valign="top">Protocol</entry>
-                            <entry colname="col3" valign="top">Service</entry>
-                        </row>
-                    </thead>
-                    <tbody>
-                        <row>
-                            <entry colname="col1" align="left">80</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-web</entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">443</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-https (UI and WebServices APIs)</entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left" rowsep="1">11103</entry>
-                            <entry colname="col2" align="left" rowsep="-1">tcp</entry>
-                            <entry colname="col3" align="left" rowsep="-1">PROD-transport (IBM StoredIQ transport services; communication between the gateway and the data server)</entry> 
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">11104</entry>
-                            <entry colname="col2"></entry>
-                            <entry colname="col3"></entry>
-                        </row>
-                    </tbody>
-                </tgroup>
-            </table>
-        </section> 
+     
+          <!-- put in 2 tables -->
+         <table conkeyref="defOpAppSta/defOpAppTab">
+             <tgroup cols="1">
+                 <tbody>
+                     <row>
+                         <entry></entry>
+                     </row>
+                 </tbody>
+             </tgroup>
+         </table>
+        <table conkeyref="defOpPoDatSer/defOpPoDat">
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
         
         <!-- Start of 1st code segment -->
         <section>
@@ -113,118 +85,24 @@
         </section>
         <!-- End of 1st code segment -->
         
-        <!-- Start 2nd tables -->
-        
-        <section id="defElasticTable">
-            <title>Default open ports on the nodes in the Elasticsearch cluster</title>
+        <!-- put in two tables -->
+        <section>
+            <title></title>
             <p></p>
-            <simpletable id="defElastTable">
-                <sthead>
-                    <stentry>Port number</stentry>
-                    <stentry>Protocol</stentry>
-                    <stentry>Service</stentry>
-                </sthead>
-                <strow>
-                    <stentry>21</stentry>
-                    <stentry>tcp</stentry>
-                    <stentry>ftp</stentry>
-                </strow>
-                <strow>
-                    <stentry>22</stentry>
-                    <stentry>tcp</stentry>
-                    <stentry>sshd</stentry>
-                </strow>
-                <strow>
-                    <stentry>80</stentry>
-                    <stentry>tcp</stentry>
-                    <stentry></stentry>
-                </strow>
-                <strow>
-                    <stentry>tcp</stentry>
-                    <stentry>tcp</stentry>
-                    <stentry></stentry>
-                </strow>
-                <strow>
-                    <stentry>8888</stentry>
-                    <stentry>tcp</stentry>
-                    <stentry>SimpleHTTPServer (used for copying the <codeph>siq-elasticsearch.yml</codeph> configuration file from the Elasticsearch node to the dataserver)</stentry>
-                </strow>
-                <strow>
-                    <stentry>9200</stentry>
-                    <stentry>tcp6</stentry>
-                    <stentry>docker-proxy (listening for RESTrequests) <p>You can restrict access to this port by either enabling SearchGuard or by setting up a firewall. For more information, see <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="html">“Securing Elasticsearch cluster communication with SearchGuard” on page 51</xref> or <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_2" scope="peer" format="html">“Restricting access to port 9200 on Elasticsearch nodes” on page 52.</xref></p></stentry>
-                </strow>
-                <strow>
-                    <stentry>9300</stentry>
-                    <stentry>tcp6</stentry>
-                    <stentry>docker-proxy (internode communication)</stentry>
-                </strow>
-            </simpletable>
-            
-            <!-- Default open ports Gateway table -->
-            <table id="defOpPoGateTable">
-                <title>Default open ports on the IBM StoredIQ gateway</title>
-                <tgroup cols="3" >
-                    <colspec colname="col1" colsep="1" rowsep="1"/>
-                    <colspec colname="col2" colsep="1" rowsep="1"/>
-                    <colspec colname="col3" colsep="1" rowsep="1"/>
-                    <thead>
-                        <row>
-                            <entry colname="col1" valign="top">Port number</entry>
-                            <entry colname="col2" valign="top">Protocol</entry>
-                            <entry colname="col3" valign="top">Service</entry>
-                        </row>
-                    </thead>
+            <table conkeyref="defOpPoAlClus/defOpPoElClu">
+                <tgroup cols="1">
                     <tbody>
                         <row>
-                            <entry colname="col1" align="left">22</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-ssh</entry>
+                            <entry></entry>
                         </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <table conkeyref="defOpPoG/defOpPoGa">
+                <tgroup cols="1">
+                    <tbody>
                         <row>
-                            <entry colname="col1" align="left">80</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-web</entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">443</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-https (UI and WebServices APIs)</entry> 
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">5432</entry>
-                            <entry colname="col2" align="left">tcp</entry>
-                            <entry colname="col3" align="left">PROD-postgres</entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">5434</entry>
-                            <entry colname="col2" align="left" rowsep="-1">tcp</entry>
-                            <entry colname="col3" align="left" rowsep="-1">PROD-transport (IBM StoredIQ transport services; communication between the gateway and the data server)</entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left" rowsep="1">8765</entry>
-                            <entry colname="col2" align="left" rowsep="0"></entry>
-                            <entry colname="col3" align="left" rowsep="0"></entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">7766</entry>
-                            <entry colname="col2" align="left" rowsep="0"></entry>
-                            <entry colname="col3" align="left" rowsep="0"></entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">11102</entry>
-                            <entry colname="col2" align="left" rowsep="0"></entry>
-                            <entry colname="col3" align="left" rowsep="0"></entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">11103</entry>
-                            <entry colname="col2" align="left" rowsep="0"></entry>
-                            <entry colname="col3" align="left" rowsep="0"></entry>
-                        </row>
-                        <row>
-                            <entry colname="col1" align="left">11104</entry>
-                            <entry colname="col2" align="left" rowsep="0"></entry>
-                            <entry colname="col3" align="left" rowsep="0"></entry>
+                            <entry></entry>
                         </row>
                     </tbody>
                 </tgroup>
