@@ -9,9 +9,9 @@
         <table frame="all" rowsep="1" colsep="1" id="defOpPoDat"> 
             <title><b>Default open ports on the IBM StoredIQ data server</b></title>
             <tgroup cols="3">
-                <colspec colname="col1"/>
-                <colspec colname="col2"/>
-                <colspec colname="col3"/>
+                <colspec colname="col1" colwidth="300"/>
+                <colspec colname="col2" colwidth="300"/>
+                <colspec colname="col3" colwidth="300"/>
                 <thead>
                     <row rowsep="1">
                         <entry colsep="1">Port number</entry>

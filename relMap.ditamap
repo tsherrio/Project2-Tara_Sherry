@@ -153,7 +153,7 @@
         <relrow>
             <!-- 1st level -->
            <relcell>
-               <topicref href="topics/concepts/planDeploy.dita" collection-type="family"></topicref>
+               <topicref href="topics/tasks/planningDeploy.dita" collection-type="family"></topicref>
            </relcell>
             <!-- 2nd level -->
             <relcell>

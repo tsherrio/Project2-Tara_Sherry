@@ -10,41 +10,41 @@
                 <stentry>Description</stentry>
             </sthead>
             <strow>
-                <stentry><codeph>admin</codeph></stentry>
-                <stentry><codeph>admin</codeph></stentry>
+                <stentry><ph>admin</ph></stentry>
+                <stentry><ph>admin</ph></stentry>
                 <stentry>Administrative account for accessing IBM StoredIQ Data Server. Use this account for the initial setup of the dataserver and to create further administrative accounts for routine administration.<p>Change the password in IBM StoredIQ Data Server under <b>Administration</b> > <b>Configuration</b> > <b>Manage users</b></p>
                 </stentry>
             </strow>
             <strow>
-                <stentry><codeph>audituser</codeph></stentry>
-                <stentry><codeph>Passw0rd!</codeph></stentry>
+                <stentry><ph>audituser</ph></stentry>
+                <stentry><ph>Passw0rd!</ph></stentry>
                 <stentry>Account for accessing the auditdatabase on the AppStack.<p>Change the password by running the <b>change_audituser_password</b> script as siqadmin user on the AppStack</p>
                 </stentry>
             </strow>
             <strow>
-                <stentry><codeph>builder</codeph></stentry>
+                <stentry><ph>builder</ph></stentry>
                 <stentry>None. Password is set during initial configuration.</stentry>
                 <stentry>Account for setting up and configuringthe Elasticsearch cluster.<p>You can change the password by using the Linux <b>passwd</b> command.</p></stentry>
             </strow>
             <strow>
-                <stentry><codeph>reportuser</codeph></stentry>
-                <stentry><codeph>St0red1q</codeph></stentry>
+                <stentry><ph>reportuser</ph></stentry>
+                <stentry><ph>St0red1q</ph></stentry>
                 <stentry>Account for accessing the report database on the AppStack. <p>Change the password by running the <b>change_reportuser_password</b> script as siqadmin user on the AppStack.</p></stentry>
             </strow>
             <strow>
-                <stentry><codeph>siqadmin</codeph></stentry>
-                <stentry><codeph>Passw0rd!</codeph></stentry>
+                <stentry><ph>siqadmin</ph></stentry>
+                <stentry><ph>Passw0rd!</ph></stentry>
                 <stentry>Administrative account for managing the AppStack server. For more information, see the administration guide.<p>With new installations, you are prompted for a new password during the initial configuration of the AppStack. In updated deployments, change the password by using the Linux <b>passwd</b> command.</p></stentry>
             </strow>
             <strow>
-                <stentry><codeph>superadmin</codeph></stentry>
-                <stentry><codeph>admin</codeph></stentry>
+                <stentry><ph>superadmin</ph></stentry>
+                <stentry><ph>admin</ph></stentry>
                 <stentry>Administrative account for accessing IBM StoredIQ Administrator and IBM
                     StoredIQ Data Server. Use this account for the initial setup of IBM StoredIQ and
                     to create further administrative accounts for routine administration so that
                     their actions can be audited.<p>Change the password in IBM StoredIQ
-                        Administrator: go to <b>Users</b> and edit the <codeph>superadmin</codeph> account.</p><p>The
-                            <codeph>superadmin</codeph> account has access to all IBM StoredIQ applications on the
+                        Administrator: go to <b>Users</b> and edit the <ph>superadmin</ph> account.</p><p>The
+                            <ph>superadmin</ph> account has access to all IBM StoredIQ applications on the
                         application stack. To switch applications, click the triangle arrow icon and
                         select the application that you want to access from the list of the
                         available applications</p></stentry>

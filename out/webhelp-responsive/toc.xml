@@ -83,28 +83,6 @@
                
             </copyright>
          </topicmeta>
-         <topic href="topics/tasks/contactingIbm.html" data-id="contactingIbm" wh-toc-id="contactingIbm-d66e126">
-            <title>Contacting IBM</title>
-            <shortdesc>
-               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
-            </shortdesc>
-            <topicmeta>
-               <resourceid class="- topic/resourceid " oxy-source="topic" appid="contactingIbm"></resourceid>
-               <navtitle class="- topic/navtitle ">Contacting IBM</navtitle><?ditaot gentext?>
-               <linktext class="- map/linktext ">Contacting IBM</linktext><?ditaot genshortdesc?>
-               <shortdesc class="- map/shortdesc "></shortdesc>
-               <author class="- topic/author ">Tara Sherry</author>
-               <copyright class="- topic/copyright ">
-                  
-                  <copyryear class="- topic/copyryear " year="2019"></copyryear>
-                  
-                  <copyrholder class="- topic/copyrholder ">© Copyright International Business Machines Corporation 2001, 2019. US Government Users Restricted Rights – Use, duplication
-                     or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
-                  </copyrholder>
-                  
-               </copyright>
-            </topicmeta>
-         </topic>
       </topic>
    </topic>
    <topic href="topics/concepts/storedComp.html" data-id="storedComp" wh-toc-id="storedComp-d66e147">
@@ -309,15 +287,15 @@
          </topic>
       </topic>
    </topic>
-   <topic href="topics/concepts/planDeploy.html" data-id="planDeploy" wh-toc-id="planDeploy-d66e324">
-      <title>Plan for deployment</title>
+   <topic href="topics/tasks/planningDeploy.html" data-id="planningDeploy" wh-toc-id="planningDeploy-d66e324">
+      <title>Planning for deployment</title>
       <shortdesc>
          <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</p>
       </shortdesc>
       <topicmeta>
-         <resourceid class="- topic/resourceid " oxy-source="topic" appid="planDeploy"></resourceid>
-         <navtitle class="- topic/navtitle ">Plan for deployment</navtitle><?ditaot gentext?>
-         <linktext class="- map/linktext ">Plan for deployment</linktext><?ditaot genshortdesc?>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="planningDeploy"></resourceid>
+         <navtitle class="- topic/navtitle ">Planning for deployment</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Planning for deployment</linktext><?ditaot genshortdesc?>
          <shortdesc class="- map/shortdesc ">When you plan a deployment of IBM StoredIQ, evaluate several infrastructure considerations.</shortdesc>
          <author class="- topic/author ">Tara Sherry</author>
          <copyright class="- topic/copyright ">
@@ -613,11 +591,11 @@
          </topicmeta>
       </topic>
    </topic>
-   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e736">
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e754">
       <title>Glossary</title>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e737">
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e755">
          <title>A</title>
-         <topic href="topics/Glossary/Terms.html#appstack" data-id="appstack" wh-toc-id="appstack-d66e738">
+         <topic href="topics/Glossary/Terms.html#appstack" data-id="appstack" wh-toc-id="appstack-d66e756">
             <title>Application stack</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="appstack"></resourceid>
@@ -635,7 +613,7 @@
                </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_2.html#autoclass" data-id="autoclass" wh-toc-id="autoclass-d66e755">
+         <topic href="topics/Glossary/Terms_2.html#autoclass" data-id="autoclass" wh-toc-id="autoclass-d66e773">
             <title>Auto-classification</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="autoclass"></resourceid>
@@ -654,9 +632,9 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e772">
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e790">
          <title>C</title>
-         <topic href="topics/Glossary/Terms_3.html#cartrdg" data-id="cartrdg" wh-toc-id="cartrdg-d66e773">
+         <topic href="topics/Glossary/Terms_3.html#cartrdg" data-id="cartrdg" wh-toc-id="cartrdg-d66e791">
             <title>Cartridges</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="cartrdg"></resourceid>
@@ -674,7 +652,7 @@
                </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_4.html#connapi" data-id="connapi" wh-toc-id="connapi-d66e790">
+         <topic href="topics/Glossary/Terms_4.html#connapi" data-id="connapi" wh-toc-id="connapi-d66e808">
             <title>Connector API SDK</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="connapi"></resourceid>
@@ -693,9 +671,9 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e807">
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e825">
          <title>D</title>
-         <topic href="topics/Glossary/Terms_5.html#dataserver" data-id="dataserver" wh-toc-id="dataserver-d66e808">
+         <topic href="topics/Glossary/Terms_5.html#dataserver" data-id="dataserver" wh-toc-id="dataserver-d66e826">
             <title>Data servers</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataserver"></resourceid>
@@ -713,7 +691,7 @@
                </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_6.html#dataclassic" data-id="dataclassic" wh-toc-id="dataclassic-d66e825">
+         <topic href="topics/Glossary/Terms_6.html#dataclassic" data-id="dataclassic" wh-toc-id="dataclassic-d66e843">
             <title>DataServer - Classic</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="dataclassic"></resourceid>
@@ -731,7 +709,7 @@
                </copyright>
             </topicmeta>
          </topic>
-         <topic href="topics/Glossary/Terms_7.html#datadist" data-id="datadist" wh-toc-id="datadist-d66e842">
+         <topic href="topics/Glossary/Terms_7.html#datadist" data-id="datadist" wh-toc-id="datadist-d66e860">
             <title>DataServer - Distributed</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="datadist"></resourceid>
@@ -750,9 +728,9 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e859">
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e877">
          <title>G</title>
-         <topic href="topics/Glossary/Terms_8.html#gateway" data-id="gateway" wh-toc-id="gateway-d66e860">
+         <topic href="topics/Glossary/Terms_8.html#gateway" data-id="gateway" wh-toc-id="gateway-d66e878">
             <title>Gateway</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="gateway"></resourceid>
@@ -771,9 +749,9 @@
             </topicmeta>
          </topic>
       </topic>
-      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e877">
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e895">
          <title>I</title>
-         <topic href="topics/Glossary/Terms_9.html#ibminsights" data-id="ibminsights" wh-toc-id="ibminsights-d66e878">
+         <topic href="topics/Glossary/Terms_9.html#ibminsights" data-id="ibminsights" wh-toc-id="ibminsights-d66e896">
             <title>IBM StoredIQ Insights</title>
             <topicmeta>
                <resourceid class="- topic/resourceid " oxy-source="topic" appid="ibminsights"></resourceid>

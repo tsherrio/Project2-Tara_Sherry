@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- myVal1 - Compound att in deployVirtual.dita (exclude)-->
+    <prop action="include" att="audience" val="novice"/>
+    <prop action="exclude" att="product" val="product1"/>
+</val>

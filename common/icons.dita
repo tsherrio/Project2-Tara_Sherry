@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="icons1">
+    <title/>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="02/12/2019"/>
+        </critdates>
+        <permissions view="internal"/>
+        <metadata>
+            <prodinfo>
+                <prodname>IBM StoredIQ Deployment and Configuration Guide</prodname>
+                <brand>IBM</brand>
+                <component>Deployment and Configuration Guide</component>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section>
+            <title/>
+            <p>
+                <image id="wind" href="../resources/images/png/win_logo.PNG"></image>
+                <image id="linu" href="../resources/images/png/linux_logo.PNG"></image>
+            </p>
+        </section>
+    </refbody>
+</reference>

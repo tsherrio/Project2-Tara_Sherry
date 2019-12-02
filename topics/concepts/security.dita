@@ -19,7 +19,7 @@
     </prolog>
     
     <conbody>
-        <p>IBM StoredIQ keeps your data secure through encryption, security hardening, and auditing.</p>
+        <p platform="windows linux">IBM StoredIQ keeps your data secure through encryption, security hardening, and auditing.</p>
         <section>
             <title>Federal Information Processing Standard (FIPS)</title>
             <p>FIPS is a standard recommended by the National Institute of Standards and Technology (NIST) and theUS Federal Government. It ensures certain security standards are met for software or hardware components deployed at US government sites. Enabling FIPS ensures that the SSL/TLS engine that is compliant with the US Government recommendation is used. IBM StoredIQ supports FIPS Level 1.</p>
@@ -40,7 +40,7 @@
         </section>
         <section>
             <title>Encryption of data at rest</title>
-            <p>Starting with IBM StoredIQ version 7.6.0.15, the disk volume on which the Elasticsearch indexes are stored is encrypted by default. IBM StoredIQ uses Linux Unified Key Setup (LUKS) for disk encryption. For details about key management, see <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_31" scope="peer" format="pdf">“Key and certificate management” on page 41.</xref></p>
+            <p platform="linux">Starting with IBM StoredIQ version 7.6.0.15, the disk volume on which the Elasticsearch indexes are stored is encrypted by default. IBM StoredIQ uses Linux Unified Key Setup (LUKS) for disk encryption. For details about key management, see <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_31" scope="peer" format="pdf">“Key and certificate management” on page 41.</xref></p>
             <p>Optionally, you can encrypt the application data on the IBM StoredIQ application stack. For more information, see <xref href="https://www.ibm.com/support/pages/sites/default/files/inline-files/$FILE/IBMSIQDeploymentConfigGuide76019_1.pdf#unique_32" scope="peer" format="pdf">“Enabling encryption of IBM StoredIQ AppStack application data” on page 50.</xref></p>
         </section>
         <section>

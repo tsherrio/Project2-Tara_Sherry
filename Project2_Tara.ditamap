@@ -19,7 +19,7 @@
             <topicref href="topics/references/prodLibrary.dita"/>
             <topicref href="topics/tasks/contactingSupp.dita">
                 <keydef keys="support" href="topics/references/contactWeb.dita"/>
-                <topicref keys="contactIbm" href="topics/tasks/contactingIbm.dita" processing-role="normal"/>
+                <topicref keys="contactIbm" href="topics/tasks/contactingIbm.dita" processing-role="resource-only"/>
             </topicref>
         </topicref>
     </topicgroup>
@@ -41,7 +41,7 @@
     
     <!-- Main heading group-->
     <topicgroup collection-type="family">
-        <topicref href="topics/concepts/planDeploy.dita" importance="high" status="unchanged" processing-role="normal">
+        <topicref href="topics/tasks/planningDeploy.dita" importance="high" status="new" processing-role="normal">
             <topicref href="topics/concepts/ovaConfigReq.dita">
                 <topicref href="topics/concepts/networkPortReq.dita">
                     <topicref href="topics/concepts/tcpPortRange.dita"/>
@@ -67,6 +67,8 @@
     
     <!-- Images -->
     <keydef keys="pics" href="common/images.dita"/> 
+    <keydef keys="winn" href="common/icons.dita#icons1"/>
+    
     <!-- Hazard -->
     <keydef keys="hazard" href="topics/concepts/ovaConfigReq.dita"/>
     <!-- Tables -->

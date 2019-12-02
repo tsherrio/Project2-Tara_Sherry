@@ -21,8 +21,8 @@
     <taskbody>
         <prereq>Ensure that all prerequisites for the deployment described in the planning section are met and that the required software packages are available on your local system before you start this task.</prereq>
         <context>
-            <p>Download the latest version of IBM StoredIQ from either IBM Fix Central or IBM Passport Advantage®. For information about the package names and part numbers and the links to the proper download locations, see the <xref href="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019" scope="external" format="html">download document.</xref></p>
-            <p>The number of Elasticsearch OVAs deployed depends on the planned size of your Elasticsearch cluster.The default setup is a three-node cluster. Each Elasticsearch node requires a separate OVA deployment.</p>
+            <p rev="2.0">Download the latest version of IBM StoredIQ from either IBM Fix Central or IBM Passport Advantage®. For information about the package names and part numbers and the links to the proper download locations, see the <xref href="https://www.ibm.com/support/pages/download-ibm-storediq-version-76019" scope="external" format="html">download document.</xref></p>
+            <p rev="1.0">The number of Elasticsearch OVAs deployed depends on the planned size of your Elasticsearch cluster.The default setup is a three-node cluster. Each Elasticsearch node requires a separate OVA deployment.</p>
             <p>The number of data server OVAs deployed depends on the number of data servers needed. Each dataserver requires a separate OVA deployment.</p>
             <ol>
                 <li>Connect to the ESX server or vCenter server.</li>
@@ -51,13 +51,14 @@
                     </ol>
                 </li>
             </ol>
-            <p>Configure the components of your IBM StoredIQ environment in this order:</p>
+            <p audience="novice" product="product1">Configure the components of your IBM StoredIQ environment in this order:
             <ol>
                 <li>Elasticsearch cluster (if applicable)</li>
-                <li>Gateway</li>
+                <li product="product2" audience="expert">Gateway</li>
                 <li>One or more data servers</li>
                 <li>Application stack</li>
             </ol>
+            </p>
         </context>
     </taskbody>
 </task>

@@ -9,9 +9,9 @@
         <table id="defOpPoGa" frame="all" colsep="1" rowsep="1">
             <title><b>Open ports on the IBM StoredIQ gateway</b></title>
             <tgroup cols="3">
-                <colspec colname="col1" colsep="1" rowsep="1"/>
-                <colspec colname="col2" colsep="1" rowsep="1"/>
-                <colspec colname="col3" colsep="1" rowsep="1"/>
+                <colspec colname="col1" colsep="1" rowsep="1" colwidth="300"/>
+                <colspec colname="col2" colsep="1" rowsep="1" colwidth="300"/>
+                <colspec colname="col3" colsep="1" rowsep="1" colwidth="300"/>
                 <thead>
                     <row>
                         <entry colname="col1" valign="top">Port number</entry>

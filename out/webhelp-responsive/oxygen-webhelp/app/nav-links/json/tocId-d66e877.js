@@ -1,1 +1,1 @@
-define({"topics" : [{"title":"IBM StoredIQ Insights","href":"topics\/Glossary\/Terms_9.html#ibminsights","attributes": {"data-id":"ibminsights",},"menu": {"hasChildren":false,},"tocID":"ibminsights-d66e878","topics":[]}]});
+define({"topics" : [{"title":"Gateway","href":"topics\/Glossary\/Terms_8.html#gateway","attributes": {"data-id":"gateway",},"menu": {"hasChildren":false,},"tocID":"gateway-d66e878","topics":[]}]});

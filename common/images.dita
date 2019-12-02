@@ -21,11 +21,11 @@
             <section>
                 <title></title>
                 <p>
-                    <image id="datServ" href="../resources/images/png/dataServer.PNG"></image>
-                    <image id="iqAdmin" href="../resources/images/png/admin.PNG"></image>
-                    <image id="workBen" href="../resources/images/png/workbench.PNG"></image>
-                    <image id="insight" href="../resources/images/png/insights.PNG"></image>
-                    <image id="polMa" href="../resources/images/png/polMan.PNG"></image>
+                    <image id="datServ" href="../resources/images/png/dataServer.PNG" alt="IBM StoredIQ Data Server"></image>
+                    <image id="iqAdmin" href="../resources/images/png/admin.PNG" alt="IBM StoredIQ Administrator"></image>
+                    <image id="workBen" href="../resources/images/png/workbench.PNG" alt="IBM StoredIQ Data Workbench"></image>
+                    <image id="insight" href="../resources/images/png/insights.PNG" alt="IBM StoredIQ Insights"></image>
+                    <image id="polMa" href="../resources/images/png/polMan.PNG" alt="IBM StoredIQ Policy Manager"></image>
                     <image></image>
                 </p>
             </section>

@@ -16,20 +16,20 @@
             </prodinfo>
         </metadata>  
     </prolog>
-    
+   
     <taskbody>
         <context>
             <p>Installing IBM StoredIQ on Microsoft Hyper-V requires the use of third-party software. For the procedure described here, the following software prerequisites must be met:</p>
             <ul>
-                <li>Microsoft Hyper-V Manager must be installed on a Windows system.</li>
-                <li>7-zip for Windows or tar for the Linux operating system must be available to extract contents of the OVA.</li>
+                <li platform="windows">Microsoft Hyper-V Manager must be installed on a Windows system.</li>
+                <li platform="linux">7-zip for Windows or tar for the Linux operating system must be available to extract contents of the OVA.</li>
                 <li>7-zip for Windows or gunzip for the Linux operating system must be installed to decompress the vmdk.gzfile.</li>
                 <li>Microsoft Virtual Machine Converter 3.0 (Windows) or qemu-img (Linux) or must be installed to convert the files from VMWare .vmdkfiles to Hyper-V .vhdxfiles</li>
             </ul>
             <p>Microsoft Hyper-V does not support OVAs and OVFs. The virtual machine needs to be built manually.</p>
-            <p>Consider the following instructions a sample procedure. The instructions might differ depending on the version of the third-party software.</p>
-            <p>Complete these steps for the gateway, the data server, and the AppStack:</p>
-            <ol>
+            <p audience="novice">Consider the following instructions a sample procedure. The instructions might differ depending on the version of the third-party software.</p>
+            <p audience="novice">Complete these steps for the gateway, the data server, and the AppStack:</p>
+            <ol audience="novice">
                 <li>Extract the vmdk file from the OVA.
                     <ol>
                         <li>Download the OVA.</li>
@@ -38,13 +38,13 @@
                         <li>Delete everything except the <codeph>vmdk</codeph> file when the OVA extraction is complete.</li>
                     </ol>
                 </li>
-                <li>Convert the V<codeph>MWare .vmdk</codeph> file to a Microsoft Hyper-V .vhdx file.<p>For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
+                <li audience="novice">Convert the V<codeph>MWare .vmdk</codeph> file to a Microsoft Hyper-V .vhdx file.<p>For instructions about converting .vmdk files to .vhdx files, see the following links:</p>
                     <ul>
                         <li><xref href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn874008(v=ws.11)?redirectedfrom=MSDN" scope="external" format="html">Use Microsoft Virtual Machine Converter</xref></li>
                         <li><xref href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-tips_and_tricks-using_qemu_img" scope="external" format="html">Using qemu-img</xref></li>
                     </ul>
                 </li>
-                <li>Build a virtual machine.
+                <li audience="novice">Build a virtual machine.
                     <ol>
                         <li>Select <b>New Virtual Machine</b> > <b>Next</b> from Hyper-V Manager.</li>
                         <li>Enter the name of the virtual machine in the <b>Specify Name and Location</b> window and click <b>Next</b>.</li>
@@ -56,7 +56,7 @@
                         <li>Repeat these previous steps for all IBM StoredIQ disks.</li>
                     </ol>
                 </li>
-                <li>Optional: Add disks.
+                <li audience="expert">Optional: Add disks.
                     <ol>
                         <li>Select a virtual machine in Microsoft Hyper-V Manager.</li>
                         <li>Select the settings for the virtual machine under <b>Actions</b>.</li>

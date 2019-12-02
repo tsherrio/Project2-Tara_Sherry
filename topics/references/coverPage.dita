@@ -60,9 +60,9 @@
                 <stentry>Bullet list for readability</stentry>
             </strow>
             <strow>
-                <stentry>Conkeyref</stentry>
-                <stentry>appsStored.dita</stentry>
-                <stentry>Reusable content strategy</stentry>
+                <stentry>Linking strategy</stentry>
+                <stentry>Figures, tables.</stentry>
+                <stentry>Reusable content strategy usign conkeyref</stentry>
             </strow>
             <strow>
                 <stentry>Example</stentry>
@@ -72,12 +72,27 @@
             <strow>
                 <stentry>Planning for Deployment</stentry>
                 <stentry>planDeploy.dita</stentry>
-                <stentry>Changed heading to Plan for Deployment to prevent topic from being mistaken for task.</stentry>
+                <stentry>Changed topic back to task as heading indicates.</stentry>
             </strow>
             <strow>
-                <stentry>Images</stentry>
-                <stentry>All images</stentry>
-                <stentry>Useo of figures for clarity.</stentry>
+                <stentry>Conditonal</stentry>
+                <stentry>deployVirtual.dita</stentry>
+                <stentry>val1: compound filter (exclude)</stentry>
+            </strow>
+            <strow>
+                <stentry>Conditonal</stentry>
+                <stentry>deployMicroHyperV.dita</stentry>
+                <stentry>val2: Change text colour and insert graphic</stentry>
+            </strow>
+            <strow>
+                <stentry>Conditonal</stentry>
+                <stentry>deployVirtual.dita</stentry>
+                <stentry>val3: flag and backcolor</stentry>
+            </strow>
+            <strow>
+                <stentry>Conditonal</stentry>
+                <stentry>deployVirtual.dita</stentry>
+                <stentry>val4: text color, underline</stentry>
             </strow>
         </simpletable>
         

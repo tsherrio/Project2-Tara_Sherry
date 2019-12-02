@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <!-- myVal2 - Change text colour and insert graphic in deployMicroHyperV.dita -->
+    <prop action="exclude" att="platform"/>
+    <prop action="flag" att="platform" val="windows" color="#85c1e9">
+        <startflag imageref=""><alt-text>Windows</alt-text></startflag>
+    </prop>
+    <prop action="flag" att="platform" val="linux" color=" #f1948a">
+        <startflag imageref="../resources/images/png/linux_logo.PNG"><alt-text>Linux</alt-text></startflag>
+    </prop>
+</val>

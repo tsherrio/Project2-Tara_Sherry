@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+     <!-- myVal4 - flag, color, underline -->
+    <prop action="flag" att="product" val="product1" color="#d35400" style="underline"/>
+    <prop action="flag" att="product" val="product2" color="#16a085" style="underline"/>
+</val>

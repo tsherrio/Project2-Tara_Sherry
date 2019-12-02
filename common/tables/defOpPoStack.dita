@@ -9,8 +9,8 @@
         <table frame="all" colsep="1" rowsep="1" id="defOpAppTab">
             <title><b>Default open ports on the AppStack</b></title>
             <tgroup cols="2">
-                <colspec colname="c1" colsep="1" rowsep="1" colwidth="600"/>
-                <colspec colname="c2" colsep="1" rowsep="1" colwidth="600"/>
+                <colspec colname="c1" colsep="1" rowsep="1" colwidth="300"/>
+                <colspec colname="c2" colsep="1" rowsep="1" colwidth="300"/>
                 <thead>
                     <row>
                         <entry>Port number</entry>
